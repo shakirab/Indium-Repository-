@@ -1,0 +1,707 @@
+ INFO | 2016-06-14 13:29:28,193 | Common.java | 82 | Startup activites...
+ INFO | 2016-06-14 13:29:28,199 | Common.java | 82 | Test Output Directory creation successful :D:\Data\official\Project\Forbes\iSafe_3.0_Forbes_Report\TestResults\2016_06_14_01_29_28_PM
+ INFO | 2016-06-14 13:29:28,199 | Common.java | 82 | Log File creation successful : LogFile.log
+ INFO | 2016-06-14 13:29:28,204 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:29:28,210 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:29:28,498 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-14 13:29:28,640 | Common.java | 82 | Getting value of AppURL from Test Configuration file : http://www.forbes.com/
+ INFO | 2016-06-14 13:29:28,641 | Common.java | 82 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./data/TestCaseSettings.xls
+ INFO | 2016-06-14 13:29:28,684 | Common.java | 82 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-06-14 13:29:28,684 | Common.java | 82 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-06-14 13:29:28,684 | Common.java | 82 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-06-14 13:29:29,061 | Common.java | 82 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 13:29:29,062 | Common.java | 82 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 13:29:29,062 | Common.java | 82 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-06-14 13:29:29,063 | Common.java | 82 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 13:29:29,063 | Common.java | 82 | Element time out set
+ INFO | 2016-06-14 13:29:29,066 | Common.java | 82 | Opening Chrome Browser...
+ INFO | 2016-06-14 13:29:29,067 | Common.java | 82 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2016-06-14 13:29:29,098 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-14 13:29:29,099 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-14 13:29:32,760 | Common.java | 82 | Successfully Maximised Browser Window
+ INFO | 2016-06-14 13:29:32,773 | Common.java | 82 | Browser: Open Successful : chrome
+ INFO | 2016-06-14 13:29:32,773 | Common.java | 82 | Open Browser : chrome
+ INFO | 2016-06-14 13:29:32,774 | Common.java | 82 | Getting value of AppURL from Test Configuration file : http://www.forbes.com/
+ INFO | 2016-06-14 13:29:32,774 | Common.java | 82 | Navigating to URL : http://www.forbes.com/
+ INFO | 2016-06-14 13:29:41,392 | Common.java | 82 | Navigation Successful : http://www.forbes.com/
+ INFO | 2016-06-14 13:29:41,394 | Common.java | 82 | Navigate to : http://www.forbes.com/
+ INFO | 2016-06-14 13:29:41,408 | Common.java | 82 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-06-14 13:29:41,409 | Common.java | 82 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-06-14 13:29:41,409 | Common.java | 82 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-06-14 13:29:41,409 | Common.java | 82 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-06-14 13:29:41,420 | Common.java | 82 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 13:29:41,421 | Common.java | 82 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 13:29:41,421 | Common.java | 82 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-06-14 13:29:41,421 | Common.java | 82 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 13:29:41,422 | Common.java | 82 | Element time out set
+ INFO | 2016-06-14 13:29:41,422 | Common.java | 82 | ##### Start of Test Case : New Posts Page Validations #####
+ INFO | 2016-06-14 13:29:41,424 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:29:41,425 | Common.java | 82 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-06-14 13:29:41,559 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:29:41,560 | Common.java | 82 | Navigating to URL : http://www.forbes.com/
+ INFO | 2016-06-14 13:29:52,875 | Common.java | 82 | Navigation Successful : http://www.forbes.com/
+ INFO | 2016-06-14 13:29:52,876 | Common.java | 82 | Navigate to : http://www.forbes.com/
+ INFO | 2016-06-14 13:29:52,880 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:29:52,894 | Common.java | 82 | Parsing : New Posts#xpath=//a//span[text()='New Posts']
+ INFO | 2016-06-14 13:29:52,894 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:29:52,894 | Common.java | 82 | Desktop1-Locator : //a//span[text()='New Posts']
+ INFO | 2016-06-14 13:29:52,895 | Common.java | 82 | Desktop1Locator Description : New Posts
+ INFO | 2016-06-14 13:30:03,729 | Common.java | 82 | Click on :New Posts
+ INFO | 2016-06-14 13:30:03,731 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:03,740 | Common.java | 82 | Parsing : New Posts#xpath=//h1[text()='Real Time']
+ INFO | 2016-06-14 13:30:03,740 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:03,740 | Common.java | 82 | Desktop1-Locator : //h1[text()='Real Time']
+ INFO | 2016-06-14 13:30:03,741 | Common.java | 82 | Desktop1Locator Description : New Posts
+ INFO | 2016-06-14 13:30:04,042 | Common.java | 82 | Sucessfully got the text 'Real Time'
+ INFO | 2016-06-14 13:30:04,042 | Common.java | 82 | Navigated to this page--Real Time
+ INFO | 2016-06-14 13:30:04,043 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:04,044 | Common.java | 82 | Waiting for 2 seconds...
+ INFO | 2016-06-14 13:30:06,045 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:06,060 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_1']
+ INFO | 2016-06-14 13:30:06,060 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:06,061 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_1']
+ INFO | 2016-06-14 13:30:06,061 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 13:30:06,240 | Common.java | 82 | Click on :Real time Channel Tabs
+ INFO | 2016-06-14 13:30:06,241 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:06,242 | Common.java | 82 | Waiting for 2 seconds...
+ INFO | 2016-06-14 13:30:08,249 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_1']
+ INFO | 2016-06-14 13:30:08,250 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:08,250 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_1']
+ INFO | 2016-06-14 13:30:08,250 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 13:30:08,699 | Common.java | 82 | Sucessfully got the text 'BUSINESS'
+ INFO | 2016-06-14 13:30:08,699 | Common.java | 82 | Real time channel is --BUSINESS
+ INFO | 2016-06-14 13:30:08,701 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:08,701 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 13:30:08,701 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:08,702 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 13:30:08,702 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 13:30:08,820 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 13:30:08,820 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:08,820 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 13:30:08,820 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 13:30:08,983 | Common.java | 82 | Total Elements found for Real Time Images: 35
+ INFO | 2016-06-14 13:30:09,831 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:09,833 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:09,833 | Common.java | 82 | Total images are dispalyed --35
+ INFO | 2016-06-14 13:30:09,834 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:09,843 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_2']
+ INFO | 2016-06-14 13:30:09,843 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:09,844 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_2']
+ INFO | 2016-06-14 13:30:09,844 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 13:30:10,130 | Common.java | 82 | Click on :Real time Channel Tabs
+ INFO | 2016-06-14 13:30:10,131 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:10,132 | Common.java | 82 | Waiting for 2 seconds...
+ INFO | 2016-06-14 13:30:12,146 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_2']
+ INFO | 2016-06-14 13:30:12,146 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:12,147 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_2']
+ INFO | 2016-06-14 13:30:12,147 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 13:30:12,976 | Common.java | 82 | Sucessfully got the text 'INVESTING'
+ INFO | 2016-06-14 13:30:12,977 | Common.java | 82 | Real time channel is --INVESTING
+ INFO | 2016-06-14 13:30:12,978 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:12,979 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 13:30:12,979 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:12,979 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 13:30:12,980 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 13:30:13,062 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 13:30:13,063 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:13,063 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 13:30:13,063 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 13:30:13,226 | Common.java | 82 | Total Elements found for Real Time Images: 47
+ INFO | 2016-06-14 13:30:13,689 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:13,690 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:13,690 | Common.java | 82 | Total images are dispalyed --47
+ INFO | 2016-06-14 13:30:13,691 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:13,808 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_3']
+ INFO | 2016-06-14 13:30:13,809 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:13,809 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_3']
+ INFO | 2016-06-14 13:30:13,810 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 13:30:14,201 | Common.java | 82 | Click on :Real time Channel Tabs
+ INFO | 2016-06-14 13:30:14,203 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:14,203 | Common.java | 82 | Waiting for 2 seconds...
+ INFO | 2016-06-14 13:30:16,216 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_3']
+ INFO | 2016-06-14 13:30:16,217 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:16,217 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_3']
+ INFO | 2016-06-14 13:30:16,217 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 13:30:18,888 | Common.java | 82 | Sucessfully got the text 'TECH'
+ INFO | 2016-06-14 13:30:18,888 | Common.java | 82 | Real time channel is --TECH
+ INFO | 2016-06-14 13:30:18,889 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:18,889 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 13:30:18,889 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:18,890 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 13:30:18,890 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 13:30:18,932 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 13:30:18,933 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:18,933 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 13:30:18,933 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 13:30:19,029 | Common.java | 82 | Total Elements found for Real Time Images: 66
+ INFO | 2016-06-14 13:30:19,437 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:19,438 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:19,438 | Common.java | 82 | Total images are dispalyed --66
+ INFO | 2016-06-14 13:30:19,439 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:19,450 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_4']
+ INFO | 2016-06-14 13:30:19,450 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:19,450 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_4']
+ INFO | 2016-06-14 13:30:19,450 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 13:30:19,585 | Common.java | 82 | Click on :Real time Channel Tabs
+ INFO | 2016-06-14 13:30:19,586 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:19,587 | Common.java | 82 | Waiting for 2 seconds...
+ INFO | 2016-06-14 13:30:21,594 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_4']
+ INFO | 2016-06-14 13:30:21,594 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:21,594 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_4']
+ INFO | 2016-06-14 13:30:21,595 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 13:30:21,705 | Common.java | 82 | Sucessfully got the text 'ENTREPRENEURS'
+ INFO | 2016-06-14 13:30:21,705 | Common.java | 82 | Real time channel is --ENTREPRENEURS
+ INFO | 2016-06-14 13:30:21,706 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:21,707 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 13:30:21,707 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:21,707 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 13:30:21,707 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 13:30:22,088 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 13:30:22,088 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:22,089 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 13:30:22,089 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 13:30:22,334 | Common.java | 82 | Total Elements found for Real Time Images: 79
+ INFO | 2016-06-14 13:30:22,777 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:22,778 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:22,779 | Common.java | 82 | Total images are dispalyed --79
+ INFO | 2016-06-14 13:30:22,779 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:22,788 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_5']
+ INFO | 2016-06-14 13:30:22,788 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:22,788 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_5']
+ INFO | 2016-06-14 13:30:22,789 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 13:30:24,325 | Common.java | 82 | Click on :Real time Channel Tabs
+ INFO | 2016-06-14 13:30:24,326 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:24,327 | Common.java | 82 | Waiting for 2 seconds...
+ INFO | 2016-06-14 13:30:26,334 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_5']
+ INFO | 2016-06-14 13:30:26,335 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:26,335 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_5']
+ INFO | 2016-06-14 13:30:26,335 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 13:30:31,849 | Common.java | 82 | Sucessfully got the text 'OP/ED'
+ INFO | 2016-06-14 13:30:31,849 | Common.java | 82 | Real time channel is --OP/ED
+ INFO | 2016-06-14 13:30:31,850 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:31,850 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 13:30:31,851 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:31,851 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 13:30:31,851 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 13:30:31,913 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 13:30:31,914 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:31,914 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 13:30:31,914 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 13:30:31,987 | Common.java | 82 | Total Elements found for Real Time Images: 87
+ INFO | 2016-06-14 13:30:32,297 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:32,298 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:32,299 | Common.java | 82 | Total images are dispalyed --87
+ INFO | 2016-06-14 13:30:32,302 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:32,311 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_6']
+ INFO | 2016-06-14 13:30:32,312 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:32,312 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_6']
+ INFO | 2016-06-14 13:30:32,312 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 13:30:32,494 | Common.java | 82 | Click on :Real time Channel Tabs
+ INFO | 2016-06-14 13:30:32,495 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:32,496 | Common.java | 82 | Waiting for 2 seconds...
+ INFO | 2016-06-14 13:30:34,504 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_6']
+ INFO | 2016-06-14 13:30:34,504 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:34,504 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_6']
+ INFO | 2016-06-14 13:30:34,504 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 13:30:34,946 | Common.java | 82 | Sucessfully got the text 'LEADERSHIP'
+ INFO | 2016-06-14 13:30:34,947 | Common.java | 82 | Real time channel is --LEADERSHIP
+ INFO | 2016-06-14 13:30:34,947 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:34,948 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 13:30:34,948 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:34,948 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 13:30:34,948 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 13:30:34,976 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 13:30:34,976 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:34,976 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 13:30:34,976 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 13:30:35,088 | Common.java | 82 | Total Elements found for Real Time Images: 94
+ INFO | 2016-06-14 13:30:35,404 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:35,405 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:35,405 | Common.java | 82 | Total images are dispalyed --94
+ INFO | 2016-06-14 13:30:35,406 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:35,415 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_7']
+ INFO | 2016-06-14 13:30:35,415 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:35,415 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_7']
+ INFO | 2016-06-14 13:30:35,415 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 13:30:35,597 | Common.java | 82 | Click on :Real time Channel Tabs
+ INFO | 2016-06-14 13:30:35,599 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:35,600 | Common.java | 82 | Waiting for 2 seconds...
+ INFO | 2016-06-14 13:30:37,633 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_7']
+ INFO | 2016-06-14 13:30:37,633 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:37,633 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_7']
+ INFO | 2016-06-14 13:30:37,633 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 13:30:37,909 | Common.java | 82 | Sucessfully got the text 'LIFESTYLE'
+ INFO | 2016-06-14 13:30:37,909 | Common.java | 82 | Real time channel is --LIFESTYLE
+ INFO | 2016-06-14 13:30:37,910 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:37,910 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 13:30:37,910 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:37,911 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 13:30:37,911 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 13:30:38,038 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 13:30:38,039 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:38,039 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 13:30:38,039 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 13:30:38,228 | Common.java | 82 | Total Elements found for Real Time Images: 112
+ INFO | 2016-06-14 13:30:38,536 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:38,536 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:38,537 | Common.java | 82 | Total images are dispalyed --112
+ INFO | 2016-06-14 13:30:38,537 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:38,544 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_8']
+ INFO | 2016-06-14 13:30:38,544 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:38,544 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_8']
+ INFO | 2016-06-14 13:30:38,544 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 13:30:38,739 | Common.java | 82 | Click on :Real time Channel Tabs
+ INFO | 2016-06-14 13:30:38,741 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:38,742 | Common.java | 82 | Waiting for 2 seconds...
+ INFO | 2016-06-14 13:30:40,749 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_8']
+ INFO | 2016-06-14 13:30:40,749 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:40,750 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_8']
+ INFO | 2016-06-14 13:30:40,750 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 13:30:40,907 | Common.java | 82 | Sucessfully got the text 'LISTS'
+ INFO | 2016-06-14 13:30:40,907 | Common.java | 82 | Real time channel is --LISTS
+ INFO | 2016-06-14 13:30:40,908 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:40,909 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 13:30:40,909 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:40,909 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 13:30:40,909 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 13:30:41,009 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 13:30:41,009 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:41,010 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 13:30:41,010 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 13:30:41,222 | Common.java | 82 | Total Elements found for Real Time Images: 121
+ INFO | 2016-06-14 13:30:41,597 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:41,598 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:41,599 | Common.java | 82 | Total images are dispalyed --121
+ INFO | 2016-06-14 13:30:41,600 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:41,600 | Common.java | 82 | Total images are dispalyed --121
+ INFO | 2016-06-14 13:30:41,601 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:41,601 | Common.java | 82 | Images are Displayed
+ INFO | 2016-06-14 13:30:41,602 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:41,609 | Common.java | 82 | Parsing : Real time Channel Tabs 10#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_10']
+ INFO | 2016-06-14 13:30:41,609 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:41,609 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_10']
+ INFO | 2016-06-14 13:30:41,609 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs 10
+ INFO | 2016-06-14 13:30:41,932 | Common.java | 82 | Click on :Real time Channel Tabs 10
+ INFO | 2016-06-14 13:30:41,933 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:41,947 | Common.java | 82 | Parsing : Real time Channel Tabs 10#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_10']
+ INFO | 2016-06-14 13:30:41,948 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:41,948 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_10']
+ INFO | 2016-06-14 13:30:41,948 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs 10
+ INFO | 2016-06-14 13:30:42,129 | Common.java | 82 | Sucessfully got the text 'VIDEO'
+ INFO | 2016-06-14 13:30:42,129 | Common.java | 82 | Real time channel is --VIDEO
+ INFO | 2016-06-14 13:30:42,130 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:42,142 | Common.java | 82 | Parsing : Real time Channel Tabs All#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='all']
+ INFO | 2016-06-14 13:30:42,143 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:42,143 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='all']
+ INFO | 2016-06-14 13:30:42,143 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs All
+ INFO | 2016-06-14 13:30:42,580 | Common.java | 82 | Click on :Real time Channel Tabs All
+ INFO | 2016-06-14 13:30:42,581 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:42,588 | Common.java | 82 | Parsing : Real time Channel Tabs All#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='all']
+ INFO | 2016-06-14 13:30:42,589 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:42,589 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='all']
+ INFO | 2016-06-14 13:30:42,589 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs All
+ INFO | 2016-06-14 13:30:43,247 | Common.java | 82 | Sucessfully got the text 'ALL'
+ INFO | 2016-06-14 13:30:43,247 | Common.java | 82 | Real time channel is --ALL
+ INFO | 2016-06-14 13:30:43,248 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:43,249 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:30:43,292 | Common.java | 82 | Parsing : New Posts Link#xpath=//article[@class='clearfix']//h2//a
+ INFO | 2016-06-14 13:30:43,292 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:43,292 | Common.java | 82 | Desktop1-Locator : //article[@class='clearfix']//h2//a
+ INFO | 2016-06-14 13:30:43,293 | Common.java | 82 | Desktop1Locator Description : New Posts Link
+ INFO | 2016-06-14 13:30:43,931 | Common.java | 82 | Parsing : New Posts Link#xpath=//article[@class='clearfix']//h2//a
+ INFO | 2016-06-14 13:30:43,931 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:30:43,932 | Common.java | 82 | Desktop1-Locator : //article[@class='clearfix']//h2//a
+ INFO | 2016-06-14 13:30:43,932 | Common.java | 82 | Desktop1Locator Description : New Posts Link
+ INFO | 2016-06-14 13:30:45,116 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:30:46,827 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:30:48,406 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:30:49,719 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:30:51,284 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:30:52,600 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:30:53,928 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:30:55,261 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:30:56,581 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:30:57,928 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:30:59,270 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:31:00,595 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:31:01,925 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:31:03,281 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:31:04,618 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:31:06,036 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:31:07,368 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:31:08,696 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:31:10,084 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:31:11,408 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:31:12,716 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:31:14,041 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:31:15,384 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:31:16,736 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:31:18,048 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:31:19,425 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:31:20,766 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:31:22,083 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:31:23,523 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:31:24,849 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ERROR | 2016-06-14 13:31:25,850 | Common.java | 90 | New Posts Link element found but its not in editable/clickable state within 30 timeouts
+ INFO | 2016-06-14 13:31:25,851 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:31:26,091 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:31:26,092 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:31:26,092 | Common.java | 82 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-06-14 13:31:26,092 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:31:26,093 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:31:26,093 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:31:26,093 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:31:26,095 | Common.java | 82 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-06-14 13:31:26,103 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:26,103 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:31:26,103 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:26,103 | Common.java | 82 | Desktop1Locator Description : Most Popular Heading
+ INFO | 2016-06-14 13:31:26,509 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:31:27,510 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:27,510 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:31:27,510 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:27,510 | Common.java | 82 | Desktop1Locator Description : Most Popular Heading
+ INFO | 2016-06-14 13:31:27,864 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:31:28,865 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:28,865 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:31:28,865 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:28,866 | Common.java | 82 | Desktop1Locator Description : Most Popular Heading
+ INFO | 2016-06-14 13:31:29,250 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:31:30,251 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:30,251 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:31:30,251 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:30,251 | Common.java | 82 | Desktop1Locator Description : Most Popular Heading
+ INFO | 2016-06-14 13:31:30,586 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:31:31,586 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:31,586 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:31:31,586 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:31,586 | Common.java | 82 | Desktop1Locator Description : Most Popular Heading
+ INFO | 2016-06-14 13:31:31,913 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ERROR | 2016-06-14 13:31:32,913 | Common.java | 90 | Most Popular Heading element not found in '5' seconds timeout 
+ INFO | 2016-06-14 13:31:32,914 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:31:33,158 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:31:33,159 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:31:33,159 | Common.java | 82 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-06-14 13:31:33,159 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:31:33,160 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:31:33,160 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:31:33,160 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:31:33,161 | Common.java | 82 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-06-14 13:31:33,507 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:31:34,513 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:34,513 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:31:34,513 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:34,513 | Common.java | 82 | Desktop1Locator Description : Most Popular Heading
+ INFO | 2016-06-14 13:31:34,870 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:31:35,870 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:35,870 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:31:35,870 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:35,870 | Common.java | 82 | Desktop1Locator Description : Most Popular Heading
+ INFO | 2016-06-14 13:31:36,218 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:31:37,218 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:37,218 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:31:37,218 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:37,218 | Common.java | 82 | Desktop1Locator Description : Most Popular Heading
+ INFO | 2016-06-14 13:31:37,544 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:31:38,545 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:38,545 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:31:38,545 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:38,545 | Common.java | 82 | Desktop1Locator Description : Most Popular Heading
+ INFO | 2016-06-14 13:31:38,896 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:31:39,896 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:39,896 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:31:39,896 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:39,896 | Common.java | 82 | Desktop1Locator Description : Most Popular Heading
+ INFO | 2016-06-14 13:31:40,234 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ERROR | 2016-06-14 13:31:41,235 | Common.java | 90 | Most Popular Heading element not found in '5' seconds timeout 
+ INFO | 2016-06-14 13:31:41,236 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:31:41,444 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:31:41,445 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:31:41,446 | Common.java | 82 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-06-14 13:31:41,446 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:31:41,446 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:31:41,446 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:31:41,447 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:31:41,447 | Common.java | 82 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-06-14 13:31:41,776 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:31:42,783 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:42,783 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:31:42,783 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:42,783 | Common.java | 82 | Desktop1Locator Description : Most Popular Heading
+ INFO | 2016-06-14 13:31:43,149 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:31:44,149 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:44,149 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:31:44,149 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:44,149 | Common.java | 82 | Desktop1Locator Description : Most Popular Heading
+ INFO | 2016-06-14 13:31:44,571 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:31:45,571 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:45,571 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:31:45,571 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:45,571 | Common.java | 82 | Desktop1Locator Description : Most Popular Heading
+ INFO | 2016-06-14 13:31:45,932 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:31:46,933 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:46,933 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:31:46,933 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:46,933 | Common.java | 82 | Desktop1Locator Description : Most Popular Heading
+ INFO | 2016-06-14 13:31:47,257 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:31:48,258 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:48,258 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:31:48,258 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:48,258 | Common.java | 82 | Desktop1Locator Description : Most Popular Heading
+ INFO | 2016-06-14 13:31:48,590 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ERROR | 2016-06-14 13:31:49,590 | Common.java | 90 | Most Popular Heading element not found in '5' seconds timeout 
+ INFO | 2016-06-14 13:31:49,590 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:31:49,802 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:31:49,803 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:31:49,804 | Common.java | 82 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-06-14 13:31:49,804 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:31:49,804 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:31:49,804 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:31:49,804 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:31:49,805 | Common.java | 82 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-06-14 13:31:50,220 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:31:51,226 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:51,226 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:31:51,226 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:51,226 | Common.java | 82 | Desktop1Locator Description : Most Popular Heading
+ INFO | 2016-06-14 13:31:51,586 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:31:52,586 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:52,586 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:31:52,586 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:52,586 | Common.java | 82 | Desktop1Locator Description : Most Popular Heading
+ INFO | 2016-06-14 13:31:52,934 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:31:53,934 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:53,934 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:31:53,935 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:53,935 | Common.java | 82 | Desktop1Locator Description : Most Popular Heading
+ INFO | 2016-06-14 13:31:54,288 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:31:55,289 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:55,289 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:31:55,289 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:55,289 | Common.java | 82 | Desktop1Locator Description : Most Popular Heading
+ INFO | 2016-06-14 13:31:55,613 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:31:56,613 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:56,613 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:31:56,613 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:56,613 | Common.java | 82 | Desktop1Locator Description : Most Popular Heading
+ INFO | 2016-06-14 13:31:56,988 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ERROR | 2016-06-14 13:31:57,988 | Common.java | 90 | Most Popular Heading element not found in '5' seconds timeout 
+ INFO | 2016-06-14 13:31:57,989 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:31:58,218 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:31:58,220 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:31:58,231 | Common.java | 82 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-06-14 13:31:58,232 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:31:58,232 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:31:58,232 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:31:58,233 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:31:58,233 | Common.java | 82 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-06-14 13:31:58,604 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-06-14 13:31:59,610 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:59,610 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:31:59,610 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:31:59,610 | Common.java | 82 | Desktop1Locator Description : Most Popular Heading
+ INFO | 2016-06-14 13:31:59,956 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:32:00,957 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:32:00,957 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:32:00,957 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:32:00,957 | Common.java | 82 | Desktop1Locator Description : Most Popular Heading
+ INFO | 2016-06-14 13:32:01,311 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:32:02,312 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:32:02,312 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:32:02,312 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:32:02,312 | Common.java | 82 | Desktop1Locator Description : Most Popular Heading
+ INFO | 2016-06-14 13:32:02,747 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:32:03,748 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:32:03,748 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:32:03,749 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:32:03,749 | Common.java | 82 | Desktop1Locator Description : Most Popular Heading
+ INFO | 2016-06-14 13:32:04,096 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:32:05,096 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:32:05,096 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:32:05,096 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 13:32:05,096 | Common.java | 82 | Desktop1Locator Description : Most Popular Heading
+ INFO | 2016-06-14 13:32:05,460 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ERROR | 2016-06-14 13:32:06,461 | Common.java | 90 | Most Popular Heading element not found in '5' seconds timeout 
+ INFO | 2016-06-14 13:32:06,462 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:06,661 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:06,662 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:06,662 | Common.java | 82 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-06-14 13:32:06,662 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:32:06,663 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:32:06,663 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:32:06,663 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:32:06,663 | Common.java | 82 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-06-14 13:32:07,023 | Common.java | 82 | StaleElementReferenceException occured. Retrying..............
+ERROR | 2016-06-14 13:32:08,023 | Common.java | 90 | Most Popular Heading element found but its not in editable/clickable state within 5 timeouts
+ INFO | 2016-06-14 13:32:08,024 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:08,221 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:08,222 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:08,222 | Common.java | 82 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-06-14 13:32:08,222 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:32:08,222 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:32:08,223 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:32:08,223 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:32:08,223 | Common.java | 82 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-06-14 13:32:08,223 | Common.java | 82 | 
+ INFO | 2016-06-14 13:32:08,224 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:13,151 | Common.java | 82 | Sucessfully moved to 'Back' page
+ INFO | 2016-06-14 13:32:13,153 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:13,154 | Common.java | 82 | Screenshot of Top Ads
+ INFO | 2016-06-14 13:32:13,155 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:13,163 | Common.java | 82 | Parsing : Home Page Top Ads#xpath=//div[@id='top']//div
+ INFO | 2016-06-14 13:32:13,164 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:32:13,164 | Common.java | 82 | Desktop1-Locator : //div[@id='top']//div
+ INFO | 2016-06-14 13:32:13,164 | Common.java | 82 | Desktop1Locator Description : Home Page Top Ads
+ INFO | 2016-06-14 13:32:13,323 | Common.java | 82 | Scroll to Home Page Top Ads
+ INFO | 2016-06-14 13:32:13,355 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-14 13:32:13,355 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-14 13:32:17,518 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:17,519 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:17,519 | Common.java | 82 | Screenshot of Rec Ads
+ INFO | 2016-06-14 13:32:17,520 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:17,526 | Common.java | 82 | Parsing : Rec Ads#xpath=//div[@id='rec']
+ INFO | 2016-06-14 13:32:17,526 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:32:17,526 | Common.java | 82 | Desktop1-Locator : //div[@id='rec']
+ INFO | 2016-06-14 13:32:17,527 | Common.java | 82 | Desktop1Locator Description : Rec Ads
+ INFO | 2016-06-14 13:32:17,679 | Common.java | 82 | Scroll to Rec Ads
+ INFO | 2016-06-14 13:32:17,780 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-14 13:32:17,781 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-14 13:32:22,097 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:22,100 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:22,102 | Common.java | 82 | Screenshot of RailRec Ads
+ INFO | 2016-06-14 13:32:22,103 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:22,111 | Common.java | 82 | Parsing : RailRec ads#xpath=//div[@id='railrec']
+ INFO | 2016-06-14 13:32:22,111 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:32:22,112 | Common.java | 82 | Desktop1-Locator : //div[@id='railrec']
+ INFO | 2016-06-14 13:32:22,112 | Common.java | 82 | Desktop1Locator Description : RailRec ads
+ INFO | 2016-06-14 13:32:22,859 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:32:23,859 | Common.java | 82 | Parsing : RailRec ads#xpath=//div[@id='railrec']
+ INFO | 2016-06-14 13:32:23,860 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:32:23,860 | Common.java | 82 | Desktop1-Locator : //div[@id='railrec']
+ INFO | 2016-06-14 13:32:23,860 | Common.java | 82 | Desktop1Locator Description : RailRec ads
+ INFO | 2016-06-14 13:32:24,553 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:32:25,554 | Common.java | 82 | Parsing : RailRec ads#xpath=//div[@id='railrec']
+ INFO | 2016-06-14 13:32:25,554 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:32:25,554 | Common.java | 82 | Desktop1-Locator : //div[@id='railrec']
+ INFO | 2016-06-14 13:32:25,554 | Common.java | 82 | Desktop1Locator Description : RailRec ads
+ INFO | 2016-06-14 13:32:26,344 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:32:27,345 | Common.java | 82 | Parsing : RailRec ads#xpath=//div[@id='railrec']
+ INFO | 2016-06-14 13:32:27,346 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:32:27,347 | Common.java | 82 | Desktop1-Locator : //div[@id='railrec']
+ INFO | 2016-06-14 13:32:27,347 | Common.java | 82 | Desktop1Locator Description : RailRec ads
+ INFO | 2016-06-14 13:32:28,111 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:32:29,111 | Common.java | 82 | Parsing : RailRec ads#xpath=//div[@id='railrec']
+ INFO | 2016-06-14 13:32:29,111 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:32:29,111 | Common.java | 82 | Desktop1-Locator : //div[@id='railrec']
+ INFO | 2016-06-14 13:32:29,111 | Common.java | 82 | Desktop1Locator Description : RailRec ads
+ INFO | 2016-06-14 13:32:29,729 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ERROR | 2016-06-14 13:32:30,731 | Common.java | 90 | RailRec ads element not found in '5' seconds timeout 
+ INFO | 2016-06-14 13:32:30,733 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:31,514 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:31,515 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:31,516 | Common.java | 82 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-06-14 13:32:31,518 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:32:31,519 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:32:31,519 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:32:31,519 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:32:31,519 | Common.java | 82 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-06-14 13:32:31,584 | Common.java | 82 | Scroll to RailRec ads
+ INFO | 2016-06-14 13:32:31,653 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-14 13:32:31,653 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-14 13:32:36,897 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:36,899 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:36,899 | Common.java | 82 | Screenshot of Text Blocker Ads
+ INFO | 2016-06-14 13:32:36,900 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:36,907 | Common.java | 82 | Parsing : Blocker ads#xpath=//div[@id='text']
+ INFO | 2016-06-14 13:32:36,908 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:32:36,908 | Common.java | 82 | Desktop1-Locator : //div[@id='text']
+ INFO | 2016-06-14 13:32:36,908 | Common.java | 82 | Desktop1Locator Description : Blocker ads
+ INFO | 2016-06-14 13:32:37,527 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:32:38,529 | Common.java | 82 | Parsing : Blocker ads#xpath=//div[@id='text']
+ INFO | 2016-06-14 13:32:38,529 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:32:38,529 | Common.java | 82 | Desktop1-Locator : //div[@id='text']
+ INFO | 2016-06-14 13:32:38,529 | Common.java | 82 | Desktop1Locator Description : Blocker ads
+ INFO | 2016-06-14 13:32:39,123 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:32:40,124 | Common.java | 82 | Parsing : Blocker ads#xpath=//div[@id='text']
+ INFO | 2016-06-14 13:32:40,124 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:32:40,124 | Common.java | 82 | Desktop1-Locator : //div[@id='text']
+ INFO | 2016-06-14 13:32:40,124 | Common.java | 82 | Desktop1Locator Description : Blocker ads
+ INFO | 2016-06-14 13:32:40,749 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:32:41,750 | Common.java | 82 | Parsing : Blocker ads#xpath=//div[@id='text']
+ INFO | 2016-06-14 13:32:41,750 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:32:41,750 | Common.java | 82 | Desktop1-Locator : //div[@id='text']
+ INFO | 2016-06-14 13:32:41,750 | Common.java | 82 | Desktop1Locator Description : Blocker ads
+ INFO | 2016-06-14 13:32:42,288 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:32:43,289 | Common.java | 82 | Parsing : Blocker ads#xpath=//div[@id='text']
+ INFO | 2016-06-14 13:32:43,289 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:32:43,290 | Common.java | 82 | Desktop1-Locator : //div[@id='text']
+ INFO | 2016-06-14 13:32:43,290 | Common.java | 82 | Desktop1Locator Description : Blocker ads
+ INFO | 2016-06-14 13:32:43,914 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ERROR | 2016-06-14 13:32:44,914 | Common.java | 90 | Blocker ads element not found in '5' seconds timeout 
+ INFO | 2016-06-14 13:32:44,914 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:45,547 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:45,548 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:45,549 | Common.java | 82 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-06-14 13:32:45,549 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:32:45,550 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:32:45,550 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:32:45,550 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:32:45,551 | Common.java | 82 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-06-14 13:32:45,625 | Common.java | 82 | Scroll to Blocker ads
+ INFO | 2016-06-14 13:32:45,714 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-14 13:32:45,714 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-14 13:32:49,280 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:49,281 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:49,282 | Common.java | 82 | Screenshot of Loge Ads
+ INFO | 2016-06-14 13:32:49,282 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:49,289 | Common.java | 82 | Parsing : Loge ads#xpath=//div[@id='loge']
+ INFO | 2016-06-14 13:32:49,290 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:32:49,290 | Common.java | 82 | Desktop1-Locator : //div[@id='loge']
+ INFO | 2016-06-14 13:32:49,290 | Common.java | 82 | Desktop1Locator Description : Loge ads
+ INFO | 2016-06-14 13:32:49,960 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:32:50,961 | Common.java | 82 | Parsing : Loge ads#xpath=//div[@id='loge']
+ INFO | 2016-06-14 13:32:50,961 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:32:50,961 | Common.java | 82 | Desktop1-Locator : //div[@id='loge']
+ INFO | 2016-06-14 13:32:50,961 | Common.java | 82 | Desktop1Locator Description : Loge ads
+ INFO | 2016-06-14 13:32:51,525 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:32:52,526 | Common.java | 82 | Parsing : Loge ads#xpath=//div[@id='loge']
+ INFO | 2016-06-14 13:32:52,526 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:32:52,526 | Common.java | 82 | Desktop1-Locator : //div[@id='loge']
+ INFO | 2016-06-14 13:32:52,526 | Common.java | 82 | Desktop1Locator Description : Loge ads
+ INFO | 2016-06-14 13:32:53,143 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:32:54,143 | Common.java | 82 | Parsing : Loge ads#xpath=//div[@id='loge']
+ INFO | 2016-06-14 13:32:54,143 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:32:54,143 | Common.java | 82 | Desktop1-Locator : //div[@id='loge']
+ INFO | 2016-06-14 13:32:54,143 | Common.java | 82 | Desktop1Locator Description : Loge ads
+ INFO | 2016-06-14 13:32:54,633 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 13:32:55,634 | Common.java | 82 | Parsing : Loge ads#xpath=//div[@id='loge']
+ INFO | 2016-06-14 13:32:55,635 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 13:32:55,635 | Common.java | 82 | Desktop1-Locator : //div[@id='loge']
+ INFO | 2016-06-14 13:32:55,635 | Common.java | 82 | Desktop1Locator Description : Loge ads
+ INFO | 2016-06-14 13:32:56,187 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ERROR | 2016-06-14 13:32:57,188 | Common.java | 90 | Loge ads element not found in '5' seconds timeout 
+ INFO | 2016-06-14 13:32:57,189 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:57,749 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:57,749 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:57,750 | Common.java | 82 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-06-14 13:32:57,750 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:32:57,750 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:32:57,750 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:32:57,751 | Common.java | 82 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-06-14 13:32:57,751 | Common.java | 82 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-06-14 13:32:57,761 | Common.java | 82 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-06-14 13:32:57,762 | Common.java | 82 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-06-14 13:32:57,789 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:57,791 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:57,792 | Common.java | 82 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-06-14 13:32:57,792 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-14 13:32:57,793 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:59,228 | Common.java | 82 | Getting value of StoreResultsInCouchDB from Test Configuration file : No
+ INFO | 2016-06-14 13:32:59,229 | Common.java | 82 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-06-14 13:32:59,229 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-14 13:32:59,229 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 13:32:59,319 | Common.java | 82 | Cleanup activites...
+ INFO | 2016-06-14 13:32:59,319 | Common.java | 82 | Cleanup activities - Done...
+ INFO | 2016-06-14 13:32:59,319 | Common.java | 82 | ###################################
+ INFO | 2016-06-14 13:32:59,319 | Common.java | 82 | Script Execution Complete
+ INFO | 2016-06-14 13:32:59,319 | Common.java | 82 | ####################################

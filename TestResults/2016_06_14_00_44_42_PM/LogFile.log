@@ -1,0 +1,100 @@
+ INFO | 2016-06-14 12:44:42,920 | Common.java | 82 | Startup activites...
+ INFO | 2016-06-14 12:44:42,924 | Common.java | 82 | Test Output Directory creation successful :D:\Data\official\Project\Forbes\iSafe_3.0_Forbes_Report\TestResults\2016_06_14_00_44_42_PM
+ INFO | 2016-06-14 12:44:42,924 | Common.java | 82 | Log File creation successful : LogFile.log
+ INFO | 2016-06-14 12:44:42,928 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:44:42,934 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:44:43,267 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-14 12:44:43,387 | Common.java | 82 | Getting value of AppURL from Test Configuration file : http://www.forbes.com/
+ INFO | 2016-06-14 12:44:43,388 | Common.java | 82 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./data/TestCaseSettings.xls
+ INFO | 2016-06-14 12:44:43,429 | Common.java | 82 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-06-14 12:44:43,430 | Common.java | 82 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-06-14 12:44:43,430 | Common.java | 82 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-06-14 12:44:43,796 | Common.java | 82 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 12:44:43,797 | Common.java | 82 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 12:44:43,797 | Common.java | 82 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-06-14 12:44:43,798 | Common.java | 82 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 12:44:43,798 | Common.java | 82 | Element time out set
+ INFO | 2016-06-14 12:44:43,804 | Common.java | 82 | Opening Chrome Browser...
+ INFO | 2016-06-14 12:44:43,804 | Common.java | 82 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2016-06-14 12:44:43,829 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-14 12:44:43,830 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-14 12:44:46,865 | Common.java | 82 | Successfully Maximised Browser Window
+ INFO | 2016-06-14 12:44:46,874 | Common.java | 82 | Browser: Open Successful : chrome
+ INFO | 2016-06-14 12:44:46,874 | Common.java | 82 | Open Browser : chrome
+ INFO | 2016-06-14 12:44:46,875 | Common.java | 82 | Getting value of AppURL from Test Configuration file : http://www.forbes.com/
+ INFO | 2016-06-14 12:44:46,875 | Common.java | 82 | Navigating to URL : http://www.forbes.com/
+ INFO | 2016-06-14 12:44:57,959 | Common.java | 82 | Navigation Successful : http://www.forbes.com/
+ INFO | 2016-06-14 12:44:57,960 | Common.java | 82 | Navigate to : http://www.forbes.com/
+ INFO | 2016-06-14 12:44:57,963 | Common.java | 82 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-06-14 12:44:57,964 | Common.java | 82 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-06-14 12:44:57,964 | Common.java | 82 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-06-14 12:44:57,965 | Common.java | 82 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-06-14 12:44:57,979 | Common.java | 82 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 12:44:57,980 | Common.java | 82 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 12:44:57,980 | Common.java | 82 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-06-14 12:44:57,981 | Common.java | 82 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 12:44:57,981 | Common.java | 82 | Element time out set
+ INFO | 2016-06-14 12:44:57,981 | Common.java | 82 | ##### Start of Test Case : Home page Validations #####
+ INFO | 2016-06-14 12:44:57,983 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:44:57,984 | Common.java | 82 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-06-14 12:44:58,102 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:44:58,103 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:44:58,110 | Common.java | 82 | Parsing : Quote of the day#xpath=//div[@class='content-inner']
+ INFO | 2016-06-14 12:44:58,110 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:44:58,110 | Common.java | 82 | Desktop1-Locator : //div[@class='content-inner']
+ INFO | 2016-06-14 12:44:58,111 | Common.java | 82 | Desktop1Locator Description : Quote of the day
+ INFO | 2016-06-14 12:44:58,201 | Common.java | 82 | Sucessfully got the text 'QUOTE OF
+THE DAY
+"It’s easy to be in the wrong place at the wrong time, but it is leadership to be in the wrong place at the right time.’”
+Alison Thompson'
+ INFO | 2016-06-14 12:44:58,201 | Common.java | 82 | Forbes Quote of the Day-QUOTE OF
+THE DAY
+"It’s easy to be in the wrong place at the wrong time, but it is leadership to be in the wrong place at the right time.’”
+Alison Thompson
+ INFO | 2016-06-14 12:44:58,202 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:44:58,756 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:44:58,757 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:44:58,768 | Common.java | 82 | Parsing : Continue to site#xpath=//a[@class='continue-button']
+ INFO | 2016-06-14 12:44:58,768 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:44:58,768 | Common.java | 82 | Desktop1-Locator : //a[@class='continue-button']
+ INFO | 2016-06-14 12:44:58,768 | Common.java | 82 | Desktop1Locator Description : Continue to site
+ INFO | 2016-06-14 12:44:58,878 | Common.java | 82 | Sucessfully got the text 'CONTINUE TO SITE'
+ INFO | 2016-06-14 12:44:58,879 | Common.java | 82 | CONTINUE TO SITE-CONTINUE TO SITE
+ INFO | 2016-06-14 12:44:58,880 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:44:58,888 | Common.java | 82 | Parsing : Continue to site#xpath=//a[@class='continue-button']
+ INFO | 2016-06-14 12:44:58,889 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:44:58,889 | Common.java | 82 | Desktop1-Locator : //a[@class='continue-button']
+ INFO | 2016-06-14 12:44:58,889 | Common.java | 82 | Desktop1Locator Description : Continue to site
+ INFO | 2016-06-14 12:45:21,818 | Common.java | 82 | Click on :Continue to site
+ INFO | 2016-06-14 12:45:21,820 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:45:21,821 | Common.java | 82 | Clicked on Continue to site button
+ INFO | 2016-06-14 12:45:21,822 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:45:21,919 | Common.java | 82 | Redirected to home page Forbes Asia
+ INFO | 2016-06-14 12:45:21,920 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:45:21,921 | Common.java | 82 | Waiting for 5 seconds...
+ INFO | 2016-06-14 12:45:26,931 | Common.java | 82 | Parsing : Main Article heading#xpath=//article[@class='feature promostory promostory-1']/div[@class='feature-headline']/h3/a
+ INFO | 2016-06-14 12:45:26,932 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:45:26,932 | Common.java | 82 | Desktop1-Locator : //article[@class='feature promostory promostory-1']/div[@class='feature-headline']/h3/a
+ INFO | 2016-06-14 12:45:26,932 | Common.java | 82 | Desktop1Locator Description : Main Article heading
+ INFO | 2016-06-14 12:45:27,022 | Common.java | 82 | Sucessfully got the text 'This Is The Cheapest Pickup Truck In China'
+ INFO | 2016-06-14 12:45:27,031 | Common.java | 82 | Parsing : Main Article #xpath=//article[@class='feature promostory promostory-1']
+ INFO | 2016-06-14 12:45:27,032 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:45:27,032 | Common.java | 82 | Desktop1-Locator : //article[@class='feature promostory promostory-1']
+ INFO | 2016-06-14 12:45:27,032 | Common.java | 82 | Desktop1Locator Description : Main Article 
+ INFO | 2016-06-14 12:45:47,691 | Common.java | 82 | Click on :Main Article 
+ INFO | 2016-06-14 12:45:47,694 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:45:47,719 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 12:45:47,719 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:45:47,719 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 12:45:47,719 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 12:45:48,572 | Common.java | 82 | WebDriverException occured. Retrying..............
+ INFO | 2016-06-14 12:45:49,572 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 12:45:49,572 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:45:49,573 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 12:45:49,573 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 12:45:49,868 | Common.java | 82 | WebDriverException occured. Retrying..............
+ INFO | 2016-06-14 12:45:50,869 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 12:45:50,869 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:45:50,870 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 12:45:50,870 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 12:45:51,230 | Common.java | 82 | WebDriverException occured. Retrying..............

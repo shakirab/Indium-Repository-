@@ -1,0 +1,468 @@
+ INFO | 2016-06-14 14:51:50,402 | Common.java | 82 | Startup activites...
+ INFO | 2016-06-14 14:51:50,406 | Common.java | 82 | Test Output Directory creation successful :D:\Data\official\Project\Forbes\iSafe_3.0_Forbes_Report\TestResults\2016_06_14_02_51_50_PM
+ INFO | 2016-06-14 14:51:50,407 | Common.java | 82 | Log File creation successful : LogFile.log
+ INFO | 2016-06-14 14:51:50,411 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:51:50,418 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:51:50,815 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-14 14:51:50,926 | Common.java | 82 | Getting value of AppURL from Test Configuration file : http://www.forbes.com/
+ INFO | 2016-06-14 14:51:50,927 | Common.java | 82 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./data/TestCaseSettings.xls
+ INFO | 2016-06-14 14:51:50,973 | Common.java | 82 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-06-14 14:51:50,974 | Common.java | 82 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-06-14 14:51:50,975 | Common.java | 82 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-06-14 14:51:51,391 | Common.java | 82 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 14:51:51,392 | Common.java | 82 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 14:51:51,392 | Common.java | 82 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-06-14 14:51:51,393 | Common.java | 82 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 14:51:51,393 | Common.java | 82 | Element time out set
+ INFO | 2016-06-14 14:51:51,399 | Common.java | 82 | Opening Chrome Browser...
+ INFO | 2016-06-14 14:51:51,400 | Common.java | 82 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2016-06-14 14:51:51,431 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-14 14:51:51,432 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-14 14:51:53,592 | Common.java | 82 | Successfully Maximised Browser Window
+ INFO | 2016-06-14 14:51:53,604 | Common.java | 82 | Browser: Open Successful : chrome
+ INFO | 2016-06-14 14:51:53,605 | Common.java | 82 | Open Browser : chrome
+ INFO | 2016-06-14 14:51:53,605 | Common.java | 82 | Getting value of AppURL from Test Configuration file : http://www.forbes.com/
+ INFO | 2016-06-14 14:51:53,606 | Common.java | 82 | Navigating to URL : http://www.forbes.com/
+ INFO | 2016-06-14 14:52:05,411 | Common.java | 82 | Navigation Successful : http://www.forbes.com/
+ INFO | 2016-06-14 14:52:05,412 | Common.java | 82 | Navigate to : http://www.forbes.com/
+ INFO | 2016-06-14 14:52:05,414 | Common.java | 82 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-06-14 14:52:05,414 | Common.java | 82 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-06-14 14:52:05,414 | Common.java | 82 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-06-14 14:52:05,415 | Common.java | 82 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-06-14 14:52:05,424 | Common.java | 82 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 14:52:05,424 | Common.java | 82 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 14:52:05,425 | Common.java | 82 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-06-14 14:52:05,425 | Common.java | 82 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 14:52:05,425 | Common.java | 82 | Element time out set
+ INFO | 2016-06-14 14:52:05,425 | Common.java | 82 | ##### Start of Test Case : New Posts Page Validations #####
+ INFO | 2016-06-14 14:52:05,426 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:52:05,427 | Common.java | 82 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-06-14 14:52:05,568 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:52:05,568 | Common.java | 82 | Navigating to URL : http://www.forbes.com/
+ INFO | 2016-06-14 14:52:18,035 | Common.java | 82 | Navigation Successful : http://www.forbes.com/
+ INFO | 2016-06-14 14:52:18,035 | Common.java | 82 | Navigate to : http://www.forbes.com/
+ INFO | 2016-06-14 14:52:18,036 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:52:18,067 | Common.java | 82 | Parsing : New Posts#xpath=//a//span[text()='New Posts']
+ INFO | 2016-06-14 14:52:18,068 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:52:18,068 | Common.java | 82 | Desktop1-Locator : //a//span[text()='New Posts']
+ INFO | 2016-06-14 14:52:18,069 | Common.java | 82 | Desktop1Locator Description : New Posts
+ INFO | 2016-06-14 14:52:30,705 | Common.java | 82 | Click on :New Posts
+ INFO | 2016-06-14 14:52:30,706 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:52:30,726 | Common.java | 82 | Parsing : New Posts#xpath=//h1[text()='Real Time']
+ INFO | 2016-06-14 14:52:30,726 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:52:30,727 | Common.java | 82 | Desktop1-Locator : //h1[text()='Real Time']
+ INFO | 2016-06-14 14:52:30,727 | Common.java | 82 | Desktop1Locator Description : New Posts
+ INFO | 2016-06-14 14:52:31,081 | Common.java | 82 | Sucessfully got the text 'Real Time'
+ INFO | 2016-06-14 14:52:31,082 | Common.java | 82 | Navigated to this page--Real Time
+ INFO | 2016-06-14 14:52:31,083 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:52:31,083 | Common.java | 82 | Waiting for 2 seconds...
+ INFO | 2016-06-14 14:52:33,086 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:52:33,087 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-14 14:52:36,087 | Common.java | 82 | Parsing : Graph#xpath=//div[@class='visualStats']//dd[1]//canvas
+ INFO | 2016-06-14 14:52:36,088 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:52:36,088 | Common.java | 82 | Desktop1-Locator : //div[@class='visualStats']//dd[1]//canvas
+ INFO | 2016-06-14 14:52:36,088 | Common.java | 82 | Desktop1Locator Description : Graph
+ INFO | 2016-06-14 14:52:36,130 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-14 14:52:39,130 | Common.java | 82 | Parsing : Graph#xpath=//div[@class='visualStats']//dd[2]//canvas
+ INFO | 2016-06-14 14:52:39,131 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:52:39,131 | Common.java | 82 | Desktop1-Locator : //div[@class='visualStats']//dd[2]//canvas
+ INFO | 2016-06-14 14:52:39,131 | Common.java | 82 | Desktop1Locator Description : Graph
+ INFO | 2016-06-14 14:52:39,179 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-14 14:52:42,179 | Common.java | 82 | Parsing : Graph#xpath=//div[@class='visualStats']//dd[3]//canvas
+ INFO | 2016-06-14 14:52:42,180 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:52:42,180 | Common.java | 82 | Desktop1-Locator : //div[@class='visualStats']//dd[3]//canvas
+ INFO | 2016-06-14 14:52:42,180 | Common.java | 82 | Desktop1Locator Description : Graph
+ INFO | 2016-06-14 14:52:42,229 | Common.java | 82 | Parsing : Graph#xpath=//div[@class='visualStats']//dd[3]//canvas
+ INFO | 2016-06-14 14:52:42,230 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:52:42,230 | Common.java | 82 | Desktop1-Locator : //div[@class='visualStats']//dd[3]//canvas
+ INFO | 2016-06-14 14:52:42,230 | Common.java | 82 | Desktop1Locator Description : Graph
+ INFO | 2016-06-14 14:52:42,350 | Common.java | 82 | Scroll to Graph
+ INFO | 2016-06-14 14:52:42,451 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-14 14:52:42,451 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-14 14:52:46,197 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:52:46,198 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:52:46,239 | Common.java | 82 | Parsing : Label#xpath=//div[@class='visualStats']//dt[1]
+ INFO | 2016-06-14 14:52:46,239 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:52:46,239 | Common.java | 82 | Desktop1-Locator : //div[@class='visualStats']//dt[1]
+ INFO | 2016-06-14 14:52:46,240 | Common.java | 82 | Desktop1Locator Description : Label
+ INFO | 2016-06-14 14:52:46,335 | Common.java | 82 | Sucessfully got the text 'Posts
+331'
+ INFO | 2016-06-14 14:52:46,336 | Common.java | 82 | Graph is present with Labels--Posts
+331
+ INFO | 2016-06-14 14:52:46,337 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:52:46,344 | Common.java | 82 | Parsing : Label#xpath=//div[@class='visualStats']//dt[2]
+ INFO | 2016-06-14 14:52:46,344 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:52:46,344 | Common.java | 82 | Desktop1-Locator : //div[@class='visualStats']//dt[2]
+ INFO | 2016-06-14 14:52:46,344 | Common.java | 82 | Desktop1Locator Description : Label
+ INFO | 2016-06-14 14:52:46,456 | Common.java | 82 | Sucessfully got the text 'Comments
+643'
+ INFO | 2016-06-14 14:52:46,457 | Common.java | 82 | Graph is present with Labels--Comments
+643
+ INFO | 2016-06-14 14:52:46,458 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:52:46,469 | Common.java | 82 | Parsing : Label#xpath=//div[@class='visualStats']//dt[3]
+ INFO | 2016-06-14 14:52:46,470 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:52:46,470 | Common.java | 82 | Desktop1-Locator : //div[@class='visualStats']//dt[3]
+ INFO | 2016-06-14 14:52:46,470 | Common.java | 82 | Desktop1Locator Description : Label
+ INFO | 2016-06-14 14:52:46,624 | Common.java | 82 | Sucessfully got the text 'Shares
+111,992'
+ INFO | 2016-06-14 14:52:46,625 | Common.java | 82 | Graph is present with Labels--Shares
+111,992
+ INFO | 2016-06-14 14:52:46,626 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:52:46,627 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:52:46,639 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_1']
+ INFO | 2016-06-14 14:52:46,639 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:52:46,639 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_1']
+ INFO | 2016-06-14 14:52:46,640 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 14:52:46,809 | Common.java | 82 | Click on :Real time Channel Tabs
+ INFO | 2016-06-14 14:52:46,810 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:52:46,811 | Common.java | 82 | Waiting for 2 seconds...
+ INFO | 2016-06-14 14:52:48,818 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_1']
+ INFO | 2016-06-14 14:52:48,818 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:52:48,818 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_1']
+ INFO | 2016-06-14 14:52:48,819 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 14:52:50,575 | Common.java | 82 | Sucessfully got the text 'BUSINESS'
+ INFO | 2016-06-14 14:52:50,576 | Common.java | 82 | Real time channel is --BUSINESS
+ INFO | 2016-06-14 14:52:50,577 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:52:50,577 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 14:52:50,577 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:52:50,578 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 14:52:50,578 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 14:52:50,648 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 14:52:50,648 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:52:50,649 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 14:52:50,649 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 14:52:50,759 | Common.java | 82 | Total Elements found for Real Time Images: 32
+ INFO | 2016-06-14 14:52:51,157 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:52:51,158 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:52:51,158 | Common.java | 82 | Total images are dispalyed --32
+ INFO | 2016-06-14 14:52:51,159 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:52:51,191 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_2']
+ INFO | 2016-06-14 14:52:51,192 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:52:51,192 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_2']
+ INFO | 2016-06-14 14:52:51,192 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 14:52:51,396 | Common.java | 82 | Click on :Real time Channel Tabs
+ INFO | 2016-06-14 14:52:51,397 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:52:51,398 | Common.java | 82 | Waiting for 2 seconds...
+ INFO | 2016-06-14 14:52:53,405 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_2']
+ INFO | 2016-06-14 14:52:53,405 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:52:53,406 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_2']
+ INFO | 2016-06-14 14:52:53,406 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 14:52:57,633 | Common.java | 82 | Sucessfully got the text 'INVESTING'
+ INFO | 2016-06-14 14:52:57,633 | Common.java | 82 | Real time channel is --INVESTING
+ INFO | 2016-06-14 14:52:57,634 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:52:57,634 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 14:52:57,634 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:52:57,634 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 14:52:57,635 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 14:52:57,754 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 14:52:57,754 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:52:57,754 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 14:52:57,754 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 14:52:57,904 | Common.java | 82 | Total Elements found for Real Time Images: 43
+ INFO | 2016-06-14 14:52:58,571 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:52:58,572 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:52:58,572 | Common.java | 82 | Total images are dispalyed --43
+ INFO | 2016-06-14 14:52:58,573 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:52:58,586 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_3']
+ INFO | 2016-06-14 14:52:58,586 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:52:58,586 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_3']
+ INFO | 2016-06-14 14:52:58,586 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 14:52:58,892 | Common.java | 82 | Click on :Real time Channel Tabs
+ INFO | 2016-06-14 14:52:58,893 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:52:58,894 | Common.java | 82 | Waiting for 2 seconds...
+ INFO | 2016-06-14 14:53:00,906 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_3']
+ INFO | 2016-06-14 14:53:00,906 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:00,906 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_3']
+ INFO | 2016-06-14 14:53:00,907 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 14:53:01,071 | Common.java | 82 | Sucessfully got the text 'TECH'
+ INFO | 2016-06-14 14:53:01,072 | Common.java | 82 | Real time channel is --TECH
+ INFO | 2016-06-14 14:53:01,072 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:01,073 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 14:53:01,073 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:01,073 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 14:53:01,074 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 14:53:01,169 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 14:53:01,170 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:01,170 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 14:53:01,170 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 14:53:02,686 | Common.java | 82 | Total Elements found for Real Time Images: 62
+ INFO | 2016-06-14 14:53:03,060 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:03,062 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:03,062 | Common.java | 82 | Total images are dispalyed --62
+ INFO | 2016-06-14 14:53:03,063 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:03,071 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_4']
+ INFO | 2016-06-14 14:53:03,072 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:03,072 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_4']
+ INFO | 2016-06-14 14:53:03,072 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 14:53:05,113 | Common.java | 82 | Click on :Real time Channel Tabs
+ INFO | 2016-06-14 14:53:05,114 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:05,115 | Common.java | 82 | Waiting for 2 seconds...
+ INFO | 2016-06-14 14:53:07,124 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_4']
+ INFO | 2016-06-14 14:53:07,124 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:07,124 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_4']
+ INFO | 2016-06-14 14:53:07,125 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 14:53:07,637 | Common.java | 82 | Sucessfully got the text 'ENTREPRENEURS'
+ INFO | 2016-06-14 14:53:07,638 | Common.java | 82 | Real time channel is --ENTREPRENEURS
+ INFO | 2016-06-14 14:53:07,639 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:07,639 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 14:53:07,639 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:07,639 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 14:53:07,639 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 14:53:07,714 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 14:53:07,714 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:07,715 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 14:53:07,715 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 14:53:07,895 | Common.java | 82 | Total Elements found for Real Time Images: 76
+ INFO | 2016-06-14 14:53:08,247 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:08,248 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:08,248 | Common.java | 82 | Total images are dispalyed --76
+ INFO | 2016-06-14 14:53:08,249 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:08,268 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_5']
+ INFO | 2016-06-14 14:53:08,269 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:08,269 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_5']
+ INFO | 2016-06-14 14:53:08,269 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 14:53:08,432 | Common.java | 82 | Click on :Real time Channel Tabs
+ INFO | 2016-06-14 14:53:08,433 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:08,434 | Common.java | 82 | Waiting for 2 seconds...
+ INFO | 2016-06-14 14:53:10,441 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_5']
+ INFO | 2016-06-14 14:53:10,441 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:10,441 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_5']
+ INFO | 2016-06-14 14:53:10,441 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 14:53:12,241 | Common.java | 82 | Sucessfully got the text 'OP/ED'
+ INFO | 2016-06-14 14:53:12,241 | Common.java | 82 | Real time channel is --OP/ED
+ INFO | 2016-06-14 14:53:12,242 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:12,242 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 14:53:12,243 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:12,243 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 14:53:12,243 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 14:53:12,284 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 14:53:12,284 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:12,284 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 14:53:12,284 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 14:53:12,383 | Common.java | 82 | Total Elements found for Real Time Images: 84
+ INFO | 2016-06-14 14:53:12,678 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:12,679 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:12,680 | Common.java | 82 | Total images are dispalyed --84
+ INFO | 2016-06-14 14:53:12,680 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:12,686 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_6']
+ INFO | 2016-06-14 14:53:12,686 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:12,686 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_6']
+ INFO | 2016-06-14 14:53:12,686 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 14:53:12,849 | Common.java | 82 | Click on :Real time Channel Tabs
+ INFO | 2016-06-14 14:53:12,850 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:12,851 | Common.java | 82 | Waiting for 2 seconds...
+ INFO | 2016-06-14 14:53:14,858 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_6']
+ INFO | 2016-06-14 14:53:14,858 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:14,859 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_6']
+ INFO | 2016-06-14 14:53:14,859 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 14:53:20,769 | Common.java | 82 | Sucessfully got the text 'LEADERSHIP'
+ INFO | 2016-06-14 14:53:20,769 | Common.java | 82 | Real time channel is --LEADERSHIP
+ INFO | 2016-06-14 14:53:20,770 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:20,771 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 14:53:20,771 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:20,771 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 14:53:20,771 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 14:53:20,803 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 14:53:20,803 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:20,803 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 14:53:20,803 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 14:53:20,893 | Common.java | 82 | Total Elements found for Real Time Images: 90
+ INFO | 2016-06-14 14:53:21,169 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:21,170 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:21,170 | Common.java | 82 | Total images are dispalyed --90
+ INFO | 2016-06-14 14:53:21,171 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:21,177 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_7']
+ INFO | 2016-06-14 14:53:21,178 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:21,178 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_7']
+ INFO | 2016-06-14 14:53:21,178 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 14:53:21,330 | Common.java | 82 | Click on :Real time Channel Tabs
+ INFO | 2016-06-14 14:53:21,331 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:21,331 | Common.java | 82 | Waiting for 2 seconds...
+ INFO | 2016-06-14 14:53:23,342 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_7']
+ INFO | 2016-06-14 14:53:23,343 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:23,343 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_7']
+ INFO | 2016-06-14 14:53:23,343 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 14:53:24,301 | Common.java | 82 | Sucessfully got the text 'LIFESTYLE'
+ INFO | 2016-06-14 14:53:24,302 | Common.java | 82 | Real time channel is --LIFESTYLE
+ INFO | 2016-06-14 14:53:24,302 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:24,303 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 14:53:24,303 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:24,303 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 14:53:24,303 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 14:53:24,480 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 14:53:24,480 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:24,480 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 14:53:24,480 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 14:53:24,658 | Common.java | 82 | Total Elements found for Real Time Images: 107
+ INFO | 2016-06-14 14:53:25,005 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:25,008 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:25,008 | Common.java | 82 | Total images are dispalyed --107
+ INFO | 2016-06-14 14:53:25,011 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:25,017 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_8']
+ INFO | 2016-06-14 14:53:25,017 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:25,017 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_8']
+ INFO | 2016-06-14 14:53:25,017 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 14:53:25,151 | Common.java | 82 | Click on :Real time Channel Tabs
+ INFO | 2016-06-14 14:53:25,153 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:25,153 | Common.java | 82 | Waiting for 2 seconds...
+ INFO | 2016-06-14 14:53:27,159 | Common.java | 82 | Parsing : Real time Channel Tabs#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_8']
+ INFO | 2016-06-14 14:53:27,160 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:27,160 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_8']
+ INFO | 2016-06-14 14:53:27,160 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs
+ INFO | 2016-06-14 14:53:27,786 | Common.java | 82 | Sucessfully got the text 'LISTS'
+ INFO | 2016-06-14 14:53:27,786 | Common.java | 82 | Real time channel is --LISTS
+ INFO | 2016-06-14 14:53:27,787 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:27,787 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 14:53:27,788 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:27,788 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 14:53:27,788 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 14:53:27,910 | Common.java | 82 | Parsing : Real Time Images#xpath=//div[@class='img_pull']
+ INFO | 2016-06-14 14:53:27,910 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:27,910 | Common.java | 82 | Desktop1-Locator : //div[@class='img_pull']
+ INFO | 2016-06-14 14:53:27,911 | Common.java | 82 | Desktop1Locator Description : Real Time Images
+ INFO | 2016-06-14 14:53:28,010 | Common.java | 82 | Total Elements found for Real Time Images: 116
+ INFO | 2016-06-14 14:53:28,391 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:28,392 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:28,393 | Common.java | 82 | Total images are dispalyed --116
+ INFO | 2016-06-14 14:53:28,393 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:28,394 | Common.java | 82 | Total images are dispalyed --116
+ INFO | 2016-06-14 14:53:28,395 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:28,395 | Common.java | 82 | Images are Displayed
+ INFO | 2016-06-14 14:53:28,396 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:28,402 | Common.java | 82 | Parsing : Real time Channel Tabs 10#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_10']
+ INFO | 2016-06-14 14:53:28,402 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:28,402 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_10']
+ INFO | 2016-06-14 14:53:28,402 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs 10
+ INFO | 2016-06-14 14:53:28,697 | Common.java | 82 | Click on :Real time Channel Tabs 10
+ INFO | 2016-06-14 14:53:28,698 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:28,742 | Common.java | 82 | Parsing : Real time Channel Tabs 10#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_10']
+ INFO | 2016-06-14 14:53:28,742 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:28,742 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='channel_10']
+ INFO | 2016-06-14 14:53:28,743 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs 10
+ INFO | 2016-06-14 14:53:28,882 | Common.java | 82 | Sucessfully got the text 'VIDEO'
+ INFO | 2016-06-14 14:53:28,882 | Common.java | 82 | Real time channel is --VIDEO
+ INFO | 2016-06-14 14:53:28,883 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:28,891 | Common.java | 82 | Parsing : Real time Channel Tabs All#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='all']
+ INFO | 2016-06-14 14:53:28,891 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:28,892 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='all']
+ INFO | 2016-06-14 14:53:28,892 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs All
+ INFO | 2016-06-14 14:53:29,508 | Common.java | 82 | Click on :Real time Channel Tabs All
+ INFO | 2016-06-14 14:53:29,511 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:29,527 | Common.java | 82 | Parsing : Real time Channel Tabs All#xpath=//div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='all']
+ INFO | 2016-06-14 14:53:29,527 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:29,527 | Common.java | 82 | Desktop1-Locator : //div[@id='realtimechanneltabs']//ul//li[@data-channel-mapping='all']
+ INFO | 2016-06-14 14:53:29,528 | Common.java | 82 | Desktop1Locator Description : Real time Channel Tabs All
+ INFO | 2016-06-14 14:53:29,902 | Common.java | 82 | Sucessfully got the text 'ALL'
+ INFO | 2016-06-14 14:53:29,902 | Common.java | 82 | Real time channel is --ALL
+ INFO | 2016-06-14 14:53:29,903 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:29,909 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:29,937 | Common.java | 82 | Parsing : New Posts Link#xpath=//article[@class='clearfix']//h2//a
+ INFO | 2016-06-14 14:53:29,938 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:29,938 | Common.java | 82 | Desktop1-Locator : //article[@class='clearfix']//h2//a
+ INFO | 2016-06-14 14:53:29,938 | Common.java | 82 | Desktop1Locator Description : New Posts Link
+ INFO | 2016-06-14 14:53:30,185 | Common.java | 82 | Parsing : New Posts Link#xpath=//article[@class='clearfix']//h2//a
+ INFO | 2016-06-14 14:53:30,186 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:30,186 | Common.java | 82 | Desktop1-Locator : //article[@class='clearfix']//h2//a
+ INFO | 2016-06-14 14:53:30,186 | Common.java | 82 | Desktop1Locator Description : New Posts Link
+ INFO | 2016-06-14 14:53:46,116 | Common.java | 82 | Click on :New Posts Link
+ INFO | 2016-06-14 14:53:46,118 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:46,127 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 14:53:46,127 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:46,127 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 14:53:46,127 | Common.java | 82 | Desktop1Locator Description : Most Popular Heading
+ INFO | 2016-06-14 14:53:46,694 | Common.java | 82 | Sucessfully got the text 'This Is The Real Reason Microsoft Bought LinkedIn'
+ INFO | 2016-06-14 14:53:46,695 | Common.java | 82 | This Is The Real Reason Microsoft Bought LinkedIn
+ INFO | 2016-06-14 14:53:46,696 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:57,698 | Common.java | 82 | Sucessfully moved to 'Back' page
+ INFO | 2016-06-14 14:53:57,700 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:57,701 | Common.java | 82 | Screenshot of Top Ads
+ INFO | 2016-06-14 14:53:57,702 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:53:57,711 | Common.java | 82 | Parsing : Home Page Top Ads#xpath=//div[@id='top']//div
+ INFO | 2016-06-14 14:53:57,712 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:53:57,712 | Common.java | 82 | Desktop1-Locator : //div[@id='top']//div
+ INFO | 2016-06-14 14:53:57,712 | Common.java | 82 | Desktop1Locator Description : Home Page Top Ads
+ INFO | 2016-06-14 14:53:58,468 | Common.java | 82 | Scroll to Home Page Top Ads
+ INFO | 2016-06-14 14:53:58,524 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-14 14:53:58,525 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-14 14:54:01,833 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:54:01,833 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:54:01,834 | Common.java | 82 | Screenshot of Rec Ads
+ INFO | 2016-06-14 14:54:01,834 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:54:01,840 | Common.java | 82 | Parsing : Rec Ads#xpath=//div[@id='rec']
+ INFO | 2016-06-14 14:54:01,840 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:54:01,840 | Common.java | 82 | Desktop1-Locator : //div[@id='rec']
+ INFO | 2016-06-14 14:54:01,841 | Common.java | 82 | Desktop1Locator Description : Rec Ads
+ INFO | 2016-06-14 14:54:01,905 | Common.java | 82 | Scroll to Rec Ads
+ INFO | 2016-06-14 14:54:01,943 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-14 14:54:01,943 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-14 14:54:05,208 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:54:05,209 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:54:05,209 | Common.java | 82 | Screenshot of RailRec Ads
+ INFO | 2016-06-14 14:54:05,210 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:54:05,215 | Common.java | 82 | Parsing : RailRec ads#xpath=//div[@id='railrec']
+ INFO | 2016-06-14 14:54:05,215 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:54:05,216 | Common.java | 82 | Desktop1-Locator : //div[@id='railrec']
+ INFO | 2016-06-14 14:54:05,216 | Common.java | 82 | Desktop1Locator Description : RailRec ads
+ INFO | 2016-06-14 14:54:05,308 | Common.java | 82 | Scroll to RailRec ads
+ INFO | 2016-06-14 14:54:05,352 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-14 14:54:05,352 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-14 14:54:08,606 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:54:08,606 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:54:08,607 | Common.java | 82 | Screenshot of Text Blocker Ads
+ INFO | 2016-06-14 14:54:08,607 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:54:08,614 | Common.java | 82 | Parsing : Blocker ads#xpath=//div[@id='text']
+ INFO | 2016-06-14 14:54:08,614 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:54:08,614 | Common.java | 82 | Desktop1-Locator : //div[@id='text']
+ INFO | 2016-06-14 14:54:08,614 | Common.java | 82 | Desktop1Locator Description : Blocker ads
+ INFO | 2016-06-14 14:54:08,717 | Common.java | 82 | Scroll to Blocker ads
+ INFO | 2016-06-14 14:54:08,774 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-14 14:54:08,775 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-14 14:54:12,023 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:54:12,024 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:54:12,025 | Common.java | 82 | Screenshot of Loge Ads
+ INFO | 2016-06-14 14:54:12,026 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:54:12,032 | Common.java | 82 | Parsing : Loge ads#xpath=//div[@id='loge']
+ INFO | 2016-06-14 14:54:12,032 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:54:12,033 | Common.java | 82 | Desktop1-Locator : //div[@id='loge']
+ INFO | 2016-06-14 14:54:12,033 | Common.java | 82 | Desktop1Locator Description : Loge ads
+ INFO | 2016-06-14 14:54:12,125 | Common.java | 82 | Scroll to Loge ads
+ INFO | 2016-06-14 14:54:12,171 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-14 14:54:12,171 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-14 14:54:15,465 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:54:15,466 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:54:15,467 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:54:15,467 | Common.java | 82 | Parsing : Load More#xpath=//div[@class='forbesui load_more_shelf']//span
+ INFO | 2016-06-14 14:54:15,467 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:54:15,467 | Common.java | 82 | Desktop1-Locator : //div[@class='forbesui load_more_shelf']//span
+ INFO | 2016-06-14 14:54:15,467 | Common.java | 82 | Desktop1Locator Description : Load More
+ INFO | 2016-06-14 14:54:15,507 | Common.java | 82 | Parsing : Load More#xpath=//div[@class='forbesui load_more_shelf']//span
+ INFO | 2016-06-14 14:54:15,507 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:54:15,507 | Common.java | 82 | Desktop1-Locator : //div[@class='forbesui load_more_shelf']//span
+ INFO | 2016-06-14 14:54:15,507 | Common.java | 82 | Desktop1Locator Description : Load More
+ INFO | 2016-06-14 14:54:15,667 | Common.java | 82 | Click on :Load More
+ INFO | 2016-06-14 14:54:15,668 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:54:36,688 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 14:54:36,688 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:54:36,688 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 14:54:36,688 | Common.java | 82 | Desktop1Locator Description : Most Popular Heading
+ INFO | 2016-06-14 14:54:37,105 | Common.java | 82 | Sucessfully got the text 'World's 50 Best Restaurants 2016: Osteria Francescana Tops This Year's List'
+ INFO | 2016-06-14 14:54:37,105 | Common.java | 82 | World's 50 Best Restaurants 2016: Osteria Francescana Tops This Year's List
+ INFO | 2016-06-14 14:54:37,106 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:55:03,745 | Common.java | 82 | Sucessfully moved to 'Back' page
+ INFO | 2016-06-14 14:55:03,745 | Common.java | 82 | Waiting for 1 seconds...
+ INFO | 2016-06-14 14:55:04,788 | Common.java | 82 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-06-14 14:55:04,788 | Common.java | 82 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-06-14 14:55:04,789 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:55:04,791 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:55:04,792 | Common.java | 82 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-06-14 14:55:04,792 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-14 14:55:04,792 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:55:06,775 | Common.java | 82 | Getting value of StoreResultsInCouchDB from Test Configuration file : No
+ INFO | 2016-06-14 14:55:06,776 | Common.java | 82 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-06-14 14:55:06,776 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-14 14:55:06,776 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:55:06,919 | Common.java | 82 | Cleanup activites...
+ INFO | 2016-06-14 14:55:06,919 | Common.java | 82 | Cleanup activities - Done...
+ INFO | 2016-06-14 14:55:06,919 | Common.java | 82 | ###################################
+ INFO | 2016-06-14 14:55:06,919 | Common.java | 82 | Script Execution Complete
+ INFO | 2016-06-14 14:55:06,919 | Common.java | 82 | ####################################

@@ -1,0 +1,274 @@
+ INFO | 2016-06-14 14:58:37,396 | Common.java | 82 | Startup activites...
+ INFO | 2016-06-14 14:58:37,400 | Common.java | 82 | Test Output Directory creation successful :D:\Data\official\Project\Forbes\iSafe_3.0_Forbes_Report\TestResults\2016_06_14_02_58_37_PM
+ INFO | 2016-06-14 14:58:37,401 | Common.java | 82 | Log File creation successful : LogFile.log
+ INFO | 2016-06-14 14:58:37,404 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:58:37,411 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:58:37,651 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-14 14:58:37,769 | Common.java | 82 | Getting value of AppURL from Test Configuration file : http://www.forbes.com/
+ INFO | 2016-06-14 14:58:37,770 | Common.java | 82 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./data/TestCaseSettings.xls
+ INFO | 2016-06-14 14:58:37,825 | Common.java | 82 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-06-14 14:58:37,825 | Common.java | 82 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-06-14 14:58:37,826 | Common.java | 82 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-06-14 14:58:38,208 | Common.java | 82 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 14:58:38,209 | Common.java | 82 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 14:58:38,210 | Common.java | 82 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-06-14 14:58:38,211 | Common.java | 82 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 14:58:38,211 | Common.java | 82 | Element time out set
+ INFO | 2016-06-14 14:58:38,220 | Common.java | 82 | Opening Chrome Browser...
+ INFO | 2016-06-14 14:58:38,221 | Common.java | 82 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2016-06-14 14:58:38,250 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-14 14:58:38,251 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-14 14:58:44,924 | Common.java | 82 | Successfully Maximised Browser Window
+ INFO | 2016-06-14 14:58:44,935 | Common.java | 82 | Browser: Open Successful : chrome
+ INFO | 2016-06-14 14:58:44,936 | Common.java | 82 | Open Browser : chrome
+ INFO | 2016-06-14 14:58:44,937 | Common.java | 82 | Getting value of AppURL from Test Configuration file : http://www.forbes.com/
+ INFO | 2016-06-14 14:58:44,937 | Common.java | 82 | Navigating to URL : http://www.forbes.com/
+ INFO | 2016-06-14 14:58:57,469 | Common.java | 82 | Navigation Successful : http://www.forbes.com/
+ INFO | 2016-06-14 14:58:57,470 | Common.java | 82 | Navigate to : http://www.forbes.com/
+ INFO | 2016-06-14 14:58:57,475 | Common.java | 82 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-06-14 14:58:57,477 | Common.java | 82 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-06-14 14:58:57,477 | Common.java | 82 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-06-14 14:58:57,478 | Common.java | 82 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-06-14 14:58:57,566 | Common.java | 82 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 14:58:57,567 | Common.java | 82 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 14:58:57,567 | Common.java | 82 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-06-14 14:58:57,568 | Common.java | 82 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 14:58:57,568 | Common.java | 82 | Element time out set
+ INFO | 2016-06-14 14:58:57,568 | Common.java | 82 | ##### Start of Test Case : Home page Validations #####
+ INFO | 2016-06-14 14:58:57,570 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:58:57,571 | Common.java | 82 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-06-14 14:58:57,822 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:58:57,824 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:58:57,832 | Common.java | 82 | Parsing : Quote of the day#xpath=//div[@class='content-inner']
+ INFO | 2016-06-14 14:58:57,832 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:58:57,832 | Common.java | 82 | Desktop1-Locator : //div[@class='content-inner']
+ INFO | 2016-06-14 14:58:57,833 | Common.java | 82 | Desktop1Locator Description : Quote of the day
+ INFO | 2016-06-14 14:58:57,973 | Common.java | 82 | Sucessfully got the text 'QUOTE OF
+THE DAY
+"It’s easy to be in the wrong place at the wrong time, but it is leadership to be in the wrong place at the right time.’”
+Alison Thompson'
+ INFO | 2016-06-14 14:58:57,974 | Common.java | 82 | Forbes Quote of the Day-QUOTE OF
+THE DAY
+"It’s easy to be in the wrong place at the wrong time, but it is leadership to be in the wrong place at the right time.’”
+Alison Thompson
+ INFO | 2016-06-14 14:58:57,975 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:58:59,111 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:58:59,112 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:58:59,121 | Common.java | 82 | Parsing : Continue to site#xpath=//a[@class='continue-button']
+ INFO | 2016-06-14 14:58:59,122 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:58:59,122 | Common.java | 82 | Desktop1-Locator : //a[@class='continue-button']
+ INFO | 2016-06-14 14:58:59,122 | Common.java | 82 | Desktop1Locator Description : Continue to site
+ INFO | 2016-06-14 14:58:59,197 | Common.java | 82 | Sucessfully got the text 'CONTINUE TO SITE'
+ INFO | 2016-06-14 14:58:59,197 | Common.java | 82 | CONTINUE TO SITE-CONTINUE TO SITE
+ INFO | 2016-06-14 14:58:59,198 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:58:59,207 | Common.java | 82 | Parsing : Continue to site#xpath=//a[@class='continue-button']
+ INFO | 2016-06-14 14:58:59,207 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:58:59,207 | Common.java | 82 | Desktop1-Locator : //a[@class='continue-button']
+ INFO | 2016-06-14 14:58:59,207 | Common.java | 82 | Desktop1Locator Description : Continue to site
+ INFO | 2016-06-14 14:59:12,489 | Common.java | 82 | Click on :Continue to site
+ INFO | 2016-06-14 14:59:12,490 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:59:12,491 | Common.java | 82 | Clicked on Continue to site button
+ INFO | 2016-06-14 14:59:12,492 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:59:12,577 | Common.java | 82 | Redirected to home page Forbes Asia
+ INFO | 2016-06-14 14:59:12,580 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:59:12,582 | Common.java | 82 | Waiting for 5 seconds...
+ INFO | 2016-06-14 14:59:17,583 | Common.java | 82 | Parsing : Home Page Top Ads#xpath=//div[@id='top']//div
+ INFO | 2016-06-14 14:59:17,583 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:59:17,583 | Common.java | 82 | Desktop1-Locator : //div[@id='top']//div
+ INFO | 2016-06-14 14:59:17,583 | Common.java | 82 | Desktop1Locator Description : Home Page Top Ads
+ INFO | 2016-06-14 14:59:17,629 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:59:17,636 | Common.java | 82 | Parsing : Home Page Top Ads#xpath=//div[@id='top']//div
+ INFO | 2016-06-14 14:59:17,637 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:59:17,637 | Common.java | 82 | Desktop1-Locator : //div[@id='top']//div
+ INFO | 2016-06-14 14:59:17,637 | Common.java | 82 | Desktop1Locator Description : Home Page Top Ads
+ INFO | 2016-06-14 14:59:17,712 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-14 14:59:21,483 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:59:21,486 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:59:21,486 | Common.java | 82 | Parsing : Rec Ads#xpath=//div[@id='rec']
+ INFO | 2016-06-14 14:59:21,487 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:59:21,487 | Common.java | 82 | Desktop1-Locator : //div[@id='rec']
+ INFO | 2016-06-14 14:59:21,487 | Common.java | 82 | Desktop1Locator Description : Rec Ads
+ INFO | 2016-06-14 14:59:21,539 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:59:21,547 | Common.java | 82 | Parsing : Rec Ads#xpath=//div[@id='rec']
+ INFO | 2016-06-14 14:59:21,547 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:59:21,547 | Common.java | 82 | Desktop1-Locator : //div[@id='rec']
+ INFO | 2016-06-14 14:59:21,547 | Common.java | 82 | Desktop1Locator Description : Rec Ads
+ INFO | 2016-06-14 14:59:21,675 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-14 14:59:27,940 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:59:27,942 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:59:27,943 | Common.java | 82 | Parsing : Topx Ads#xpath=//div[@id='topx']//div
+ INFO | 2016-06-14 14:59:27,944 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:59:27,948 | Common.java | 82 | Desktop1-Locator : //div[@id='topx']//div
+ INFO | 2016-06-14 14:59:27,948 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 14:59:28,021 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:59:28,031 | Common.java | 82 | Parsing : Topx Ads#xpath=//div[@id='topx']//div
+ INFO | 2016-06-14 14:59:28,032 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:59:28,032 | Common.java | 82 | Desktop1-Locator : //div[@id='topx']//div
+ INFO | 2016-06-14 14:59:28,032 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 14:59:28,230 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-14 14:59:31,984 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:59:31,985 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:59:31,985 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:59:31,991 | Common.java | 82 | Parsing : Top Stories #xpath=//div[@class='headline_list']//h4[@class='editable editable-hed']/a
+ INFO | 2016-06-14 14:59:31,992 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:59:31,992 | Common.java | 82 | Desktop1-Locator : //div[@class='headline_list']//h4[@class='editable editable-hed']/a
+ INFO | 2016-06-14 14:59:31,992 | Common.java | 82 | Desktop1Locator Description : Top Stories 
+ INFO | 2016-06-14 14:59:32,074 | Common.java | 82 | Total Elements found for Top Stories : 6
+ INFO | 2016-06-14 14:59:32,074 | Common.java | 82 | Total Top Stories: 6
+ INFO | 2016-06-14 14:59:32,075 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:59:32,082 | Common.java | 82 | Parsing : Top Stories (1) #xpath=//li[@class='promostory promostory-3 ']/h4/a
+ INFO | 2016-06-14 14:59:32,082 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:59:32,082 | Common.java | 82 | Desktop1-Locator : //li[@class='promostory promostory-3 ']/h4/a
+ INFO | 2016-06-14 14:59:32,083 | Common.java | 82 | Desktop1Locator Description : Top Stories (1) 
+ INFO | 2016-06-14 14:59:32,147 | Common.java | 82 | Scroll to Top Stories (1) 
+ INFO | 2016-06-14 14:59:32,215 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-14 14:59:32,222 | Common.java | 82 | Parsing : Top Stories (1) #xpath=//li[@class='promostory promostory-3 ']/h4/a
+ INFO | 2016-06-14 14:59:32,222 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:59:32,223 | Common.java | 82 | Desktop1-Locator : //li[@class='promostory promostory-3 ']/h4/a
+ INFO | 2016-06-14 14:59:32,223 | Common.java | 82 | Desktop1Locator Description : Top Stories (1) 
+ INFO | 2016-06-14 14:59:32,337 | Common.java | 82 | Sucessfully got the text 'Here Are All The Businesses Microsoft Gets With Its $26.2-Billion LinkedIn Deal'
+ INFO | 2016-06-14 14:59:32,346 | Common.java | 82 | Parsing : Top Story - Here Are All The Businesses Microsoft Gets With Its $26.2-Billion LinkedIn Deal#xpath=//li[@class='promostory promostory-3 ']/h4/a
+ INFO | 2016-06-14 14:59:32,347 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:59:32,347 | Common.java | 82 | Desktop1-Locator : //li[@class='promostory promostory-3 ']/h4/a
+ INFO | 2016-06-14 14:59:32,347 | Common.java | 82 | Desktop1Locator Description : Top Story - Here Are All The Businesses Microsoft Gets With Its $26.2-Billion LinkedIn Deal
+ INFO | 2016-06-14 14:59:52,295 | Common.java | 82 | Click on :Top Story - Here Are All The Businesses Microsoft Gets With Its $26.2-Billion LinkedIn Deal
+ INFO | 2016-06-14 14:59:52,296 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 14:59:52,306 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 14:59:52,307 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:59:52,307 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 14:59:52,307 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 14:59:53,766 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 14:59:54,766 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 14:59:54,766 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 14:59:54,766 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 14:59:54,766 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 15:00:01,408 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 15:00:02,409 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:02,409 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 15:00:02,409 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:02,409 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 15:00:02,898 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 15:00:03,899 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:03,899 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 15:00:03,899 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:03,900 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 15:00:04,349 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 15:00:05,349 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:05,349 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 15:00:05,349 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:05,349 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 15:00:06,793 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 15:00:07,794 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:07,794 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 15:00:07,794 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:07,794 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 15:00:08,329 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 15:00:09,329 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:09,329 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 15:00:09,329 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:09,329 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 15:00:09,770 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 15:00:10,771 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:10,771 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 15:00:10,772 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:10,772 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 15:00:11,243 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 15:00:12,243 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:12,243 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 15:00:12,243 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:12,243 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 15:00:12,670 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 15:00:13,670 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:13,670 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 15:00:13,670 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:13,670 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 15:00:14,111 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 15:00:15,112 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:15,113 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 15:00:15,113 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:15,113 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 15:00:15,648 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 15:00:16,648 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:16,648 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 15:00:16,648 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:16,648 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 15:00:17,096 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 15:00:18,096 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:18,096 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 15:00:18,096 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:18,097 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 15:00:18,540 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 15:00:19,541 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:19,542 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 15:00:19,542 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:19,542 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 15:00:19,978 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 15:00:20,978 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:20,978 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 15:00:20,978 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:20,978 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 15:00:21,409 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 15:00:22,409 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:22,409 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 15:00:22,409 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:22,409 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 15:00:22,843 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 15:00:23,844 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:23,844 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 15:00:23,844 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:23,844 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 15:00:24,274 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 15:00:25,274 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:25,275 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 15:00:25,275 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:25,275 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 15:00:25,720 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 15:00:26,720 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:26,720 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 15:00:26,720 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:26,720 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 15:00:27,150 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 15:00:28,150 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:28,150 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 15:00:28,150 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:28,150 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 15:00:28,635 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 15:00:29,635 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:29,635 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 15:00:29,635 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:29,635 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 15:00:30,058 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 15:00:31,058 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:31,058 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 15:00:31,058 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:31,058 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 15:00:31,480 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 15:00:32,480 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:32,480 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 15:00:32,480 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:32,480 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 15:00:32,914 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 15:00:33,914 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:33,914 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 15:00:33,914 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:33,914 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 15:00:34,327 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 15:00:35,328 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:35,328 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 15:00:35,328 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:35,328 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 15:00:35,836 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 15:00:36,837 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:36,837 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 15:00:36,837 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:36,838 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 15:00:37,607 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 15:00:38,608 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:38,608 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 15:00:38,608 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:38,608 | Common.java | 82 | Desktop1Locator Description : Article(1)
+ INFO | 2016-06-14 15:00:39,002 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 15:00:40,002 | Common.java | 82 | Parsing : Article(1)#xpath=//article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:40,002 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 15:00:40,002 | Common.java | 82 | Desktop1-Locator : //article[@id='article-container-0']//h1[@class='article-headline ng-binding ng-scope']
+ INFO | 2016-06-14 15:00:40,002 | Common.java | 82 | Desktop1Locator Description : Article(1)

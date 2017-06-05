@@ -1,0 +1,371 @@
+ INFO | 2016-06-14 12:00:30,795 | Common.java | 82 | Startup activites...
+ INFO | 2016-06-14 12:00:30,800 | Common.java | 82 | Test Output Directory creation successful :D:\Data\official\Project\Forbes\iSafe_3.0_Forbes_Report\TestResults\2016_06_14_00_00_30_PM
+ INFO | 2016-06-14 12:00:30,800 | Common.java | 82 | Log File creation successful : LogFile.log
+ INFO | 2016-06-14 12:00:30,805 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:00:30,813 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:00:31,061 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-14 12:00:31,168 | Common.java | 82 | Getting value of AppURL from Test Configuration file : http://www.forbes.com/
+ INFO | 2016-06-14 12:00:31,169 | Common.java | 82 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./data/TestCaseSettings.xls
+ INFO | 2016-06-14 12:00:31,209 | Common.java | 82 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-06-14 12:00:31,210 | Common.java | 82 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-06-14 12:00:31,210 | Common.java | 82 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-06-14 12:00:31,588 | Common.java | 82 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 12:00:31,589 | Common.java | 82 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 12:00:31,589 | Common.java | 82 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-06-14 12:00:31,590 | Common.java | 82 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 12:00:31,590 | Common.java | 82 | Element time out set
+ INFO | 2016-06-14 12:00:31,595 | Common.java | 82 | Opening Chrome Browser...
+ INFO | 2016-06-14 12:00:31,596 | Common.java | 82 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2016-06-14 12:00:31,627 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-14 12:00:31,628 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-14 12:00:35,447 | Common.java | 82 | Successfully Maximised Browser Window
+ INFO | 2016-06-14 12:00:35,461 | Common.java | 82 | Browser: Open Successful : chrome
+ INFO | 2016-06-14 12:00:35,462 | Common.java | 82 | Open Browser : chrome
+ INFO | 2016-06-14 12:00:35,463 | Common.java | 82 | Getting value of AppURL from Test Configuration file : http://www.forbes.com/
+ INFO | 2016-06-14 12:00:35,464 | Common.java | 82 | Navigating to URL : http://www.forbes.com/
+ INFO | 2016-06-14 12:00:47,068 | Common.java | 82 | Navigation Successful : http://www.forbes.com/
+ INFO | 2016-06-14 12:00:47,069 | Common.java | 82 | Navigate to : http://www.forbes.com/
+ INFO | 2016-06-14 12:00:47,073 | Common.java | 82 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-06-14 12:00:47,074 | Common.java | 82 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-06-14 12:00:47,075 | Common.java | 82 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-06-14 12:00:47,075 | Common.java | 82 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-06-14 12:00:47,085 | Common.java | 82 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 12:00:47,086 | Common.java | 82 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 12:00:47,086 | Common.java | 82 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-06-14 12:00:47,087 | Common.java | 82 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-06-14 12:00:47,087 | Common.java | 82 | Element time out set
+ INFO | 2016-06-14 12:00:47,087 | Common.java | 82 | ##### Start of Test Case : Lists Page Validations #####
+ INFO | 2016-06-14 12:00:47,090 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:00:47,092 | Common.java | 82 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-06-14 12:00:47,252 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:00:47,253 | Common.java | 82 | Navigating to URL : http://www.forbes.com/
+ INFO | 2016-06-14 12:01:01,541 | Common.java | 82 | Navigation Successful : http://www.forbes.com/
+ INFO | 2016-06-14 12:01:01,541 | Common.java | 82 | Navigate to : http://www.forbes.com/
+ INFO | 2016-06-14 12:01:01,543 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:01:01,545 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:01:01,559 | Common.java | 82 | Parsing : Lists#xpath=//span[text()='Lists']
+ INFO | 2016-06-14 12:01:01,560 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:01:01,560 | Common.java | 82 | Desktop1-Locator : //span[text()='Lists']
+ INFO | 2016-06-14 12:01:01,560 | Common.java | 82 | Desktop1Locator Description : Lists
+ INFO | 2016-06-14 12:01:33,537 | Common.java | 82 | Click on :Lists
+ INFO | 2016-06-14 12:01:33,539 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:01:33,539 | Common.java | 82 | Top Ads is present
+ INFO | 2016-06-14 12:01:33,540 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:01:34,636 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:01:34,637 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:01:34,638 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:01:34,774 | Common.java | 82 | Waiting for 2 seconds...
+ INFO | 2016-06-14 12:01:59,921 | Common.java | 82 | Top Ads is present
+ INFO | 2016-06-14 12:01:59,922 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:02:00,377 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:02:00,378 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:02:00,379 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:02:00,380 | Common.java | 82 | Top Ads is present
+ INFO | 2016-06-14 12:02:00,381 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:02:00,397 | Common.java | 82 | Parsing : Home Page Top Ads#xpath=//div[@id='top']//div
+ INFO | 2016-06-14 12:02:00,398 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:02:00,398 | Common.java | 82 | Desktop1-Locator : //div[@id='top']//div
+ INFO | 2016-06-14 12:02:00,398 | Common.java | 82 | Desktop1Locator Description : Home Page Top Ads
+ INFO | 2016-06-14 12:02:00,517 | Common.java | 82 | Scroll to Home Page Top Ads
+ INFO | 2016-06-14 12:02:00,545 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-14 12:02:00,545 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-14 12:02:04,110 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:02:04,111 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:02:04,120 | Common.java | 82 | Parsing : Next 10#xpath=//div[@class='carusel_nav']//a[text()='Next 10']
+ INFO | 2016-06-14 12:02:04,120 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:02:04,120 | Common.java | 82 | Desktop1-Locator : //div[@class='carusel_nav']//a[text()='Next 10']
+ INFO | 2016-06-14 12:02:04,120 | Common.java | 82 | Desktop1Locator Description : Next 10
+ INFO | 2016-06-14 12:02:04,171 | Common.java | 82 | Parsing : Next 10#xpath=//div[@class='carusel_nav']//a[text()='Next 10']
+ INFO | 2016-06-14 12:02:04,172 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:02:04,172 | Common.java | 82 | Desktop1-Locator : //div[@class='carusel_nav']//a[text()='Next 10']
+ INFO | 2016-06-14 12:02:04,172 | Common.java | 82 | Desktop1Locator Description : Next 10
+ INFO | 2016-06-14 12:02:04,510 | Common.java | 82 | Click on :Next 10
+ INFO | 2016-06-14 12:02:04,511 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:02:04,534 | Common.java | 82 | Parsing : Previous 10#xpath=//div[@class='carusel_nav']//a[text()='Previous 10']
+ INFO | 2016-06-14 12:02:04,535 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:02:04,535 | Common.java | 82 | Desktop1-Locator : //div[@class='carusel_nav']//a[text()='Previous 10']
+ INFO | 2016-06-14 12:02:04,535 | Common.java | 82 | Desktop1Locator Description : Previous 10
+ INFO | 2016-06-14 12:02:04,971 | Common.java | 82 | Click on :Previous 10
+ INFO | 2016-06-14 12:02:04,972 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:02:04,993 | Common.java | 82 | Parsing : Profile#xpath=//div[@class='grid']//div[@class='overall']//ul[1]//li[1]//div[@class='list_item_wrapper']//a//img
+ INFO | 2016-06-14 12:02:04,994 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:02:04,994 | Common.java | 82 | Desktop1-Locator : //div[@class='grid']//div[@class='overall']//ul[1]//li[1]//div[@class='list_item_wrapper']//a//img
+ INFO | 2016-06-14 12:02:04,994 | Common.java | 82 | Desktop1Locator Description : Profile
+ INFO | 2016-06-14 12:02:05,241 | Common.java | 82 | Click on :Profile
+ INFO | 2016-06-14 12:02:05,243 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:02:05,268 | Common.java | 82 | Parsing : Profile Name#xpath=//div[@class='grid']//div[@class='name-networth']//h4
+ INFO | 2016-06-14 12:02:05,269 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:02:05,269 | Common.java | 82 | Desktop1-Locator : //div[@class='grid']//div[@class='name-networth']//h4
+ INFO | 2016-06-14 12:02:05,269 | Common.java | 82 | Desktop1Locator Description : Profile Name
+ INFO | 2016-06-14 12:02:05,473 | Common.java | 82 | Sucessfully got the text '#1 Bill Gates'
+ INFO | 2016-06-14 12:02:05,474 | Common.java | 82 | Profile name is --#1 Bill Gates
+ INFO | 2016-06-14 12:02:05,476 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:02:05,496 | Common.java | 82 | Parsing : Profile Next#xpath=//div[@class='grid']//a[text()='NEXT']
+ INFO | 2016-06-14 12:02:05,497 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:02:05,497 | Common.java | 82 | Desktop1-Locator : //div[@class='grid']//a[text()='NEXT']
+ INFO | 2016-06-14 12:02:05,497 | Common.java | 82 | Desktop1Locator Description : Profile Next
+ INFO | 2016-06-14 12:02:07,658 | Common.java | 82 | Click on :Profile Next
+ INFO | 2016-06-14 12:02:07,659 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:02:07,688 | Common.java | 82 | Parsing : Profile Previous#xpath=//div[@class='grid']//a[text()='PREVIOUS']
+ INFO | 2016-06-14 12:02:07,689 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:02:07,689 | Common.java | 82 | Desktop1-Locator : //div[@class='grid']//a[text()='PREVIOUS']
+ INFO | 2016-06-14 12:02:07,690 | Common.java | 82 | Desktop1Locator Description : Profile Previous
+ INFO | 2016-06-14 12:02:07,827 | Common.java | 82 | Click on :Profile Previous
+ INFO | 2016-06-14 12:02:07,828 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:02:07,846 | Common.java | 82 | Parsing : See Full Profile#xpath=//div[@class='grid']//a[text()='See Full Profile']
+ INFO | 2016-06-14 12:02:07,846 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:02:07,846 | Common.java | 82 | Desktop1-Locator : //div[@class='grid']//a[text()='See Full Profile']
+ INFO | 2016-06-14 12:02:07,847 | Common.java | 82 | Desktop1Locator Description : See Full Profile
+ INFO | 2016-06-14 12:02:08,001 | Common.java | 82 | Click on :See Full Profile
+ INFO | 2016-06-14 12:02:08,002 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:02:08,017 | Common.java | 82 | Parsing : Profile Details#xpath=//div[@class='data has_image']//ul//li//h1
+ INFO | 2016-06-14 12:02:08,017 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:02:08,017 | Common.java | 82 | Desktop1-Locator : //div[@class='data has_image']//ul//li//h1
+ INFO | 2016-06-14 12:02:08,018 | Common.java | 82 | Desktop1Locator Description : Profile Details
+ INFO | 2016-06-14 12:02:08,654 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:02:09,655 | Common.java | 82 | Parsing : Profile Details#xpath=//div[@class='data has_image']//ul//li//h1
+ INFO | 2016-06-14 12:02:09,656 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:02:09,656 | Common.java | 82 | Desktop1-Locator : //div[@class='data has_image']//ul//li//h1
+ INFO | 2016-06-14 12:02:09,657 | Common.java | 82 | Desktop1Locator Description : Profile Details
+ INFO | 2016-06-14 12:02:21,520 | Common.java | 82 | Sucessfully got the text '#1 Bill Gates'
+ INFO | 2016-06-14 12:02:21,521 | Common.java | 82 | Profile name is --#1 Bill Gates
+ INFO | 2016-06-14 12:02:21,522 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:02:21,533 | Common.java | 82 | Parsing : Load more#xpath=//a[text()='Load more']
+ INFO | 2016-06-14 12:02:21,533 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:02:21,533 | Common.java | 82 | Desktop1-Locator : //a[text()='Load more']
+ INFO | 2016-06-14 12:02:21,533 | Common.java | 82 | Desktop1Locator Description : Load more
+ INFO | 2016-06-14 12:02:21,640 | Common.java | 82 | Parsing : Load more#xpath=//a[text()='Load more']
+ INFO | 2016-06-14 12:02:21,640 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:02:21,640 | Common.java | 82 | Desktop1-Locator : //a[text()='Load more']
+ INFO | 2016-06-14 12:02:21,641 | Common.java | 82 | Desktop1Locator Description : Load more
+ INFO | 2016-06-14 12:02:21,696 | Common.java | 82 | Parsing : Load more#xpath=//a[text()='Load more']
+ INFO | 2016-06-14 12:02:21,696 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:02:21,697 | Common.java | 82 | Desktop1-Locator : //a[text()='Load more']
+ INFO | 2016-06-14 12:02:21,697 | Common.java | 82 | Desktop1Locator Description : Load more
+ INFO | 2016-06-14 12:02:21,958 | Common.java | 82 | Click on :Load more
+ INFO | 2016-06-14 12:02:21,959 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:02:33,885 | Common.java | 82 | Sucessfully moved to 'Back' page
+ INFO | 2016-06-14 12:02:33,886 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:02:33,887 | Common.java | 82 | Waiting for 2 seconds...
+ INFO | 2016-06-14 12:02:35,908 | Common.java | 82 | Parsing : Title of the Page#xpath=//div[@id='content']//h1
+ INFO | 2016-06-14 12:02:35,908 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:02:35,909 | Common.java | 82 | Desktop1-Locator : //div[@id='content']//h1
+ INFO | 2016-06-14 12:02:35,909 | Common.java | 82 | Desktop1Locator Description : Title of the Page
+ INFO | 2016-06-14 12:02:35,990 | Common.java | 82 | Sucessfully got the text 'The World's Billionaires'
+ INFO | 2016-06-14 12:02:35,990 | Common.java | 82 | Navigated to corresponding page --The World's Billionaires
+ INFO | 2016-06-14 12:02:35,991 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:02:35,998 | Common.java | 82 | Parsing : See Full List#xpath=//div[@class='top-nav']//ul[@class='right']//li
+ INFO | 2016-06-14 12:02:35,999 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:02:35,999 | Common.java | 82 | Desktop1-Locator : //div[@class='top-nav']//ul[@class='right']//li
+ INFO | 2016-06-14 12:02:35,999 | Common.java | 82 | Desktop1Locator Description : See Full List
+ INFO | 2016-06-14 12:02:48,877 | Common.java | 82 | Click on :See Full List
+ INFO | 2016-06-14 12:02:48,878 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:02:48,879 | Common.java | 82 | Parsing : List of Ranking#xpath=//tbody[@id='list-table-body']//tr[1]//td[3]
+ INFO | 2016-06-14 12:02:48,879 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:02:48,879 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[1]//td[3]
+ INFO | 2016-06-14 12:02:48,879 | Common.java | 82 | Desktop1Locator Description : List of Ranking
+ INFO | 2016-06-14 12:02:48,948 | Common.java | 82 | Verified the user can view the complete list by clicking 'See Full List' button
+ INFO | 2016-06-14 12:02:48,949 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:02:48,950 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:02:48,960 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:02:48,960 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:02:48,960 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:02:48,960 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:02:49,454 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:02:50,454 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:02:50,454 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:02:50,454 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:02:50,455 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:02:50,891 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:02:51,892 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:02:51,892 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:02:51,892 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:02:51,893 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:02:52,282 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:02:53,283 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:02:53,283 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:02:53,283 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:02:53,283 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:02:53,655 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:02:54,655 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:02:54,655 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:02:54,656 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:02:54,656 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:02:55,060 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:02:56,061 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:02:56,061 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:02:56,061 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:02:56,061 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:02:56,466 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:02:57,466 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:02:57,466 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:02:57,466 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:02:57,466 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:02:57,843 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:02:58,843 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:02:58,843 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:02:58,843 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:02:58,843 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:02:59,206 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:03:00,207 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:00,207 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:03:00,207 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:00,207 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:03:00,585 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:03:01,585 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:01,585 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:03:01,585 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:01,585 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:03:01,972 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:03:02,974 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:02,974 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:03:02,974 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:02,974 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:03:03,345 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:03:04,345 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:04,345 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:03:04,345 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:04,345 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:03:04,721 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:03:05,721 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:05,721 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:03:05,721 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:05,721 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:03:06,100 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:03:07,100 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:07,100 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:03:07,100 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:07,101 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:03:07,486 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:03:08,486 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:08,486 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:03:08,486 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:08,486 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:03:08,863 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:03:09,864 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:09,864 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:03:09,864 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:09,864 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:03:10,246 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:03:11,247 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:11,247 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:03:11,247 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:11,248 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:03:11,635 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:03:12,636 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:12,636 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:03:12,637 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:12,637 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:03:13,018 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:03:14,019 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:14,019 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:03:14,019 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:14,019 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:03:14,398 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:03:15,399 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:15,399 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:03:15,399 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:15,399 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:03:15,777 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:03:16,777 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:16,777 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:03:16,777 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:16,781 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:03:17,157 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:03:18,157 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:18,157 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:03:18,157 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:18,157 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:03:18,561 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:03:19,561 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:19,561 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:03:19,561 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:19,561 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:03:19,992 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:03:20,994 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:20,994 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:03:20,994 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:20,994 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:03:21,390 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:03:22,390 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:22,390 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:03:22,390 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:22,390 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:03:22,813 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:03:23,813 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:23,813 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:03:23,813 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:23,813 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:03:24,197 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:03:25,198 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:25,198 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:03:25,198 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:25,199 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:03:25,378 | Common.java | 82 | Waiting for 10 seconds...
+ INFO | 2016-06-14 12:03:35,389 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:35,389 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:03:35,390 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][1]
+ INFO | 2016-06-14 12:03:35,390 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:03:35,474 | Common.java | 82 | Scroll to Topx Ads
+ INFO | 2016-06-14 12:03:35,492 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-14 12:03:35,492 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-14 12:03:38,771 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:03:38,772 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:03:38,773 | Common.java | 82 | Waiting for 10 seconds...
+ INFO | 2016-06-14 12:03:48,783 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][2]
+ INFO | 2016-06-14 12:03:48,783 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:03:48,784 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][2]
+ INFO | 2016-06-14 12:03:48,784 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:03:48,849 | Common.java | 82 | Scroll to Topx Ads
+ INFO | 2016-06-14 12:03:48,953 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-14 12:03:48,954 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-14 12:03:52,271 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:03:52,273 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:03:52,273 | Common.java | 82 | Waiting for 10 seconds...
+ INFO | 2016-06-14 12:04:02,289 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][3]
+ INFO | 2016-06-14 12:04:02,290 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:04:02,290 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][3]
+ INFO | 2016-06-14 12:04:02,290 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:04:02,697 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:04:03,697 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][3]
+ INFO | 2016-06-14 12:04:03,697 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:04:03,697 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][3]
+ INFO | 2016-06-14 12:04:03,697 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:04:04,159 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:04:05,160 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][3]
+ INFO | 2016-06-14 12:04:05,160 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:04:05,160 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][3]
+ INFO | 2016-06-14 12:04:05,160 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:04:05,570 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:04:06,571 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][3]
+ INFO | 2016-06-14 12:04:06,571 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:04:06,571 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][3]
+ INFO | 2016-06-14 12:04:06,571 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:04:07,027 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:04:08,027 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][3]
+ INFO | 2016-06-14 12:04:08,027 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:04:08,027 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][3]
+ INFO | 2016-06-14 12:04:08,027 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:04:08,481 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:04:09,482 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][3]
+ INFO | 2016-06-14 12:04:09,482 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:04:09,482 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][3]
+ INFO | 2016-06-14 12:04:09,482 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:04:09,940 | Common.java | 82 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-06-14 12:04:10,941 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][3]
+ INFO | 2016-06-14 12:04:10,942 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:04:10,943 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][3]
+ INFO | 2016-06-14 12:04:10,943 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:04:11,019 | Common.java | 82 | Scroll to Topx Ads
+ INFO | 2016-06-14 12:04:11,065 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-14 12:04:11,065 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-14 12:04:14,376 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:04:14,377 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-14 12:04:14,377 | Common.java | 82 | Waiting for 10 seconds...
+ INFO | 2016-06-14 12:04:24,385 | Common.java | 82 | Parsing : Topx Ads#xpath=//tbody[@id='list-table-body']//tr[@class='ad'][4]
+ INFO | 2016-06-14 12:04:24,386 | Common.java | 82 | Desktop1-Identify By : xpath
+ INFO | 2016-06-14 12:04:24,386 | Common.java | 82 | Desktop1-Locator : //tbody[@id='list-table-body']//tr[@class='ad'][4]
+ INFO | 2016-06-14 12:04:24,386 | Common.java | 82 | Desktop1Locator Description : Topx Ads
+ INFO | 2016-06-14 12:04:24,468 | Common.java | 82 | Scroll to Topx Ads
+ INFO | 2016-06-14 12:04:24,480 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-14 12:04:24,481 | Common.java | 82 | Waiting for 3 seconds...
